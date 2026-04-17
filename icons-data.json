@@ -1,0 +1,6232 @@
+[
+  {
+    "name": "Alt Arrow Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Alt Arrow Down.svg"
+  },
+  {
+    "name": "Alt Arrow Left",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Alt Arrow Left.svg"
+  },
+  {
+    "name": "Alt Arrow Right",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Alt Arrow Right.svg"
+  },
+  {
+    "name": "Alt Arrow Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Alt Arrow Up.svg"
+  },
+  {
+    "name": "Arrow Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Arrow Down.svg"
+  },
+  {
+    "name": "Arrow Left Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Arrow Left Down.svg"
+  },
+  {
+    "name": "Arrow Left Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Arrow Left Up.svg"
+  },
+  {
+    "name": "Arrow Left",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Arrow Left.svg"
+  },
+  {
+    "name": "Arrow Right Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Arrow Right Down.svg"
+  },
+  {
+    "name": "Arrow Right Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Arrow Right Up.svg"
+  },
+  {
+    "name": "Arrow Right",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Arrow Right.svg"
+  },
+  {
+    "name": "Arrow Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Arrow Up.svg"
+  },
+  {
+    "name": "Double Alt Arrow Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Double Alt Arrow Down.svg"
+  },
+  {
+    "name": "Double Alt Arrow Left",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Double Alt Arrow Left.svg"
+  },
+  {
+    "name": "Double Alt Arrow Right",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Double Alt Arrow Right.svg"
+  },
+  {
+    "name": "Double Alt Arrow Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Double Alt Arrow Up.svg"
+  },
+  {
+    "name": "Refresh Circle",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Refresh Circle.svg"
+  },
+  {
+    "name": "Refresh Square",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Refresh Square.svg"
+  },
+  {
+    "name": "Refresh",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Refresh.svg"
+  },
+  {
+    "name": "Restart Circle",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Restart Circle.svg"
+  },
+  {
+    "name": "Restart Square",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Restart Square.svg"
+  },
+  {
+    "name": "Restart",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Restart.svg"
+  },
+  {
+    "name": "Round Alt Arrow Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Alt Arrow Down.svg"
+  },
+  {
+    "name": "Round Alt Arrow Left",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Alt Arrow Left.svg"
+  },
+  {
+    "name": "Round Alt Arrow Right",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Alt Arrow Right.svg"
+  },
+  {
+    "name": "Round Alt Arrow Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Alt Arrow Up.svg"
+  },
+  {
+    "name": "Round Arrow Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Arrow Down.svg"
+  },
+  {
+    "name": "Round Arrow Left Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Arrow Left Down.svg"
+  },
+  {
+    "name": "Round Arrow Left Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Arrow Left Up.svg"
+  },
+  {
+    "name": "Round Arrow Left",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Arrow Left.svg"
+  },
+  {
+    "name": "Round Arrow Right Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Arrow Right Down.svg"
+  },
+  {
+    "name": "Round Arrow Right Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Arrow Right Up.svg"
+  },
+  {
+    "name": "Round Arrow Right",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Arrow Right.svg"
+  },
+  {
+    "name": "Round Arrow Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Arrow Up.svg"
+  },
+  {
+    "name": "Round Double Alt Arrow Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Double Alt Arrow Down.svg"
+  },
+  {
+    "name": "Round Double Alt Arrow Left",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Double Alt Arrow Left.svg"
+  },
+  {
+    "name": "Round Double Alt Arrow Right",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Double Alt Arrow Right.svg"
+  },
+  {
+    "name": "Round Double Alt Arrow Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Double Alt Arrow Up.svg"
+  },
+  {
+    "name": "Round Sort Horizontal",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Sort Horizontal.svg"
+  },
+  {
+    "name": "Round Sort Vertical",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Sort Vertical.svg"
+  },
+  {
+    "name": "Round Transfer Diagonal",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Transfer Diagonal.svg"
+  },
+  {
+    "name": "Round Transfer Horizontal",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Transfer Horizontal.svg"
+  },
+  {
+    "name": "Round Transfer Vertical",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Round Transfer Vertical.svg"
+  },
+  {
+    "name": "Sort Horizontal",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Sort Horizontal.svg"
+  },
+  {
+    "name": "Sort Vertical",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Sort Vertical.svg"
+  },
+  {
+    "name": "Square Alt  Arrow Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Alt  Arrow Down.svg"
+  },
+  {
+    "name": "Square Alt Arrow Left",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Alt Arrow Left.svg"
+  },
+  {
+    "name": "Square Alt Arrow Right",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Alt Arrow Right.svg"
+  },
+  {
+    "name": "Square Alt Arrow Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Alt Arrow Up.svg"
+  },
+  {
+    "name": "Square Arrow Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Arrow Down.svg"
+  },
+  {
+    "name": "Square Arrow Left Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Arrow Left Down.svg"
+  },
+  {
+    "name": "Square Arrow Left Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Arrow Left Up.svg"
+  },
+  {
+    "name": "Square Arrow Left",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Arrow Left.svg"
+  },
+  {
+    "name": "Square Arrow Right Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Arrow Right Down.svg"
+  },
+  {
+    "name": "Square Arrow Right Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Arrow Right Up.svg"
+  },
+  {
+    "name": "Square Arrow Right",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Arrow Right.svg"
+  },
+  {
+    "name": "Square Arrow Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Arrow Up.svg"
+  },
+  {
+    "name": "Square Double Alt  Arrow Right",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Double Alt  Arrow Right.svg"
+  },
+  {
+    "name": "Square Double Alt Arrow Down",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Double Alt Arrow Down.svg"
+  },
+  {
+    "name": "Square Double Alt Arrow Left",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Double Alt Arrow Left.svg"
+  },
+  {
+    "name": "Square Double Alt Arrow Up",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Double Alt Arrow Up.svg"
+  },
+  {
+    "name": "Square Sort Horizontal",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Sort Horizontal.svg"
+  },
+  {
+    "name": "Square Sort Vertical",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Sort Vertical.svg"
+  },
+  {
+    "name": "Square Transfer Horizontal",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Transfer Horizontal.svg"
+  },
+  {
+    "name": "Square Transfer Vertical",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Square Transfer Vertical.svg"
+  },
+  {
+    "name": "Transfer Horizontal",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Transfer Horizontal.svg"
+  },
+  {
+    "name": "Transfer Vertical",
+    "category": "Arrows",
+    "path": "Bold/Arrows/Transfer Vertical.svg"
+  },
+  {
+    "name": "Arrow To Down Left",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Arrow To Down Left.svg"
+  },
+  {
+    "name": "Arrow To Down Right",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Arrow To Down Right.svg"
+  },
+  {
+    "name": "Arrow To Top Left",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Arrow To Top Left.svg"
+  },
+  {
+    "name": "Arrow To Top Right",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Arrow To Top Right.svg"
+  },
+  {
+    "name": "Circle Bottom Down",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Circle Bottom Down.svg"
+  },
+  {
+    "name": "Circle Bottom Up",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Circle Bottom Up.svg"
+  },
+  {
+    "name": "Circle Top Down",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Circle Top Down.svg"
+  },
+  {
+    "name": "Circle Top Up",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Circle Top Up.svg"
+  },
+  {
+    "name": "Download Minimalistic",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Download Minimalistic.svg"
+  },
+  {
+    "name": "Download Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Download Square.svg"
+  },
+  {
+    "name": "Download Twice Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Download Twice Square.svg"
+  },
+  {
+    "name": "Download",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Download.svg"
+  },
+  {
+    "name": "Exit",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Exit.svg"
+  },
+  {
+    "name": "Export",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Export.svg"
+  },
+  {
+    "name": "Forward 2",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Forward 2.svg"
+  },
+  {
+    "name": "Forward",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Forward.svg"
+  },
+  {
+    "name": "Import",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Import.svg"
+  },
+  {
+    "name": "Login 2",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Login 2.svg"
+  },
+  {
+    "name": "Login 3",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Login 3.svg"
+  },
+  {
+    "name": "Login",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Login.svg"
+  },
+  {
+    "name": "Logout 2",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Logout 2.svg"
+  },
+  {
+    "name": "Logout 3",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Logout 3.svg"
+  },
+  {
+    "name": "Logout",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Logout.svg"
+  },
+  {
+    "name": "Maximize Square 2",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Maximize Square 2.svg"
+  },
+  {
+    "name": "Maximize Square 3",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Maximize Square 3.svg"
+  },
+  {
+    "name": "Maximize Square Minimalistic",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Maximize Square Minimalistic.svg"
+  },
+  {
+    "name": "Maximize Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Maximize Square.svg"
+  },
+  {
+    "name": "Maximize",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Maximize.svg"
+  },
+  {
+    "name": "Minimize Square 2",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Minimize Square 2.svg"
+  },
+  {
+    "name": "Minimize Square 3",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Minimize Square 3.svg"
+  },
+  {
+    "name": "Minimize Square Minimalistic",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Minimize Square Minimalistic.svg"
+  },
+  {
+    "name": "Minimize Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Minimize Square.svg"
+  },
+  {
+    "name": "Minimize",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Minimize.svg"
+  },
+  {
+    "name": "Recive Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Recive Square.svg"
+  },
+  {
+    "name": "Recive Twice Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Recive Twice Square.svg"
+  },
+  {
+    "name": "Reorder",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Reorder.svg"
+  },
+  {
+    "name": "Reply 2",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Reply 2.svg"
+  },
+  {
+    "name": "Reply",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Reply.svg"
+  },
+  {
+    "name": "Scale",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Scale.svg"
+  },
+  {
+    "name": "Screen Share",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Screen Share.svg"
+  },
+  {
+    "name": "Send Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Send Square.svg"
+  },
+  {
+    "name": "Send Twice Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Send Twice Square.svg"
+  },
+  {
+    "name": "Square Bottom Down",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Square Bottom Down.svg"
+  },
+  {
+    "name": "Square Bottom Up",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Square Bottom Up.svg"
+  },
+  {
+    "name": "Square Top Down",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Square Top Down.svg"
+  },
+  {
+    "name": "Square Top Up",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Square Top Up.svg"
+  },
+  {
+    "name": "Undo Left Round Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Undo Left Round Square.svg"
+  },
+  {
+    "name": "Undo Left Round",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Undo Left Round.svg"
+  },
+  {
+    "name": "Undo Left Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Undo Left Square.svg"
+  },
+  {
+    "name": "Undo Left",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Undo Left.svg"
+  },
+  {
+    "name": "Undo Right Round Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Undo Right Round Square.svg"
+  },
+  {
+    "name": "Undo Right Round",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Undo Right Round.svg"
+  },
+  {
+    "name": "Undo Right Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Undo Right Square.svg"
+  },
+  {
+    "name": "Undo Right",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Undo Right.svg"
+  },
+  {
+    "name": "Upload Minimalistic",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Upload Minimalistic.svg"
+  },
+  {
+    "name": "Upload Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Upload Square.svg"
+  },
+  {
+    "name": "Upload Twice Square",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Upload Twice Square.svg"
+  },
+  {
+    "name": "Upload",
+    "category": "Arrows Action",
+    "path": "Bold/Arrows Action/Upload.svg"
+  },
+  {
+    "name": "Asteroid",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Asteroid.svg"
+  },
+  {
+    "name": "Atom",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Atom.svg"
+  },
+  {
+    "name": "Black Hole 2",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Black Hole 2.svg"
+  },
+  {
+    "name": "Black Hole 3",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Black Hole 3.svg"
+  },
+  {
+    "name": "Black Hole",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Black Hole.svg"
+  },
+  {
+    "name": "Earth",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Earth.svg"
+  },
+  {
+    "name": "Infinity",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Infinity.svg"
+  },
+  {
+    "name": "Men",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Men.svg"
+  },
+  {
+    "name": "Planet 2",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Planet 2.svg"
+  },
+  {
+    "name": "Planet 3",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Planet 3.svg"
+  },
+  {
+    "name": "Planet 4",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Planet 4.svg"
+  },
+  {
+    "name": "Planet",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Planet.svg"
+  },
+  {
+    "name": "Rocket 2",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Rocket 2.svg"
+  },
+  {
+    "name": "Rocket",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Rocket.svg"
+  },
+  {
+    "name": "Satellite",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Satellite.svg"
+  },
+  {
+    "name": "Star Angle",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Star Angle.svg"
+  },
+  {
+    "name": "Star Circle",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Star Circle.svg"
+  },
+  {
+    "name": "Star Fall 2",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Star Fall 2.svg"
+  },
+  {
+    "name": "Star Fall Minimalistic 2",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Star Fall Minimalistic 2.svg"
+  },
+  {
+    "name": "Star Fall Minimalistic",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Star Fall Minimalistic.svg"
+  },
+  {
+    "name": "Star Fall",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Star Fall.svg"
+  },
+  {
+    "name": "Star Rainbow",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Star Rainbow.svg"
+  },
+  {
+    "name": "Star Ring",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Star Ring.svg"
+  },
+  {
+    "name": "Star Rings",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Star Rings.svg"
+  },
+  {
+    "name": "Star",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Star.svg"
+  },
+  {
+    "name": "Stars Line",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Stars Line.svg"
+  },
+  {
+    "name": "Stars Minimalistic",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Stars Minimalistic.svg"
+  },
+  {
+    "name": "Stars",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Stars.svg"
+  },
+  {
+    "name": "UFO 2",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/UFO 2.svg"
+  },
+  {
+    "name": "UFO 3",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/UFO 3.svg"
+  },
+  {
+    "name": "UFO",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/UFO.svg"
+  },
+  {
+    "name": "Women",
+    "category": "Astronomy",
+    "path": "Bold/Astronomy/Women.svg"
+  },
+  {
+    "name": "Buildings 2",
+    "category": "Building, Infrastructure",
+    "path": "Bold/Building, Infrastructure/Buildings 2.svg"
+  },
+  {
+    "name": "Buildings 3",
+    "category": "Building, Infrastructure",
+    "path": "Bold/Building, Infrastructure/Buildings 3.svg"
+  },
+  {
+    "name": "Buildings",
+    "category": "Building, Infrastructure",
+    "path": "Bold/Building, Infrastructure/Buildings.svg"
+  },
+  {
+    "name": "City",
+    "category": "Building, Infrastructure",
+    "path": "Bold/Building, Infrastructure/City.svg"
+  },
+  {
+    "name": "Garage",
+    "category": "Building, Infrastructure",
+    "path": "Bold/Building, Infrastructure/Garage.svg"
+  },
+  {
+    "name": "Home",
+    "category": "Building, Infrastructure",
+    "path": "Bold/Building, Infrastructure/Home.svg"
+  },
+  {
+    "name": "Hospital",
+    "category": "Building, Infrastructure",
+    "path": "Bold/Building, Infrastructure/Hospital.svg"
+  },
+  {
+    "name": "Chart 2",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Chart 2.svg"
+  },
+  {
+    "name": "Chart Square",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Chart Square.svg"
+  },
+  {
+    "name": "Chart",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Chart.svg"
+  },
+  {
+    "name": "Chat Square 2",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Chat Square 2.svg"
+  },
+  {
+    "name": "Course Down",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Course Down.svg"
+  },
+  {
+    "name": "Course Up",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Course Up.svg"
+  },
+  {
+    "name": "Diagram Down",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Diagram Down.svg"
+  },
+  {
+    "name": "Diagram Up",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Diagram Up.svg"
+  },
+  {
+    "name": "Graph Down New",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Graph Down New.svg"
+  },
+  {
+    "name": "Graph Down",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Graph Down.svg"
+  },
+  {
+    "name": "Graph New Up",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Graph New Up.svg"
+  },
+  {
+    "name": "Graph New",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Graph New.svg"
+  },
+  {
+    "name": "Graph Up",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Graph Up.svg"
+  },
+  {
+    "name": "Graph",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Graph.svg"
+  },
+  {
+    "name": "Pie Chart 2",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Pie Chart 2.svg"
+  },
+  {
+    "name": "Pie Chart 3",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Pie Chart 3.svg"
+  },
+  {
+    "name": "Pie Chart",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Pie Chart.svg"
+  },
+  {
+    "name": "Presentation Graph",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Presentation Graph.svg"
+  },
+  {
+    "name": "Round Graph",
+    "category": "Business, Statistic",
+    "path": "Bold/Business, Statistic/Round Graph.svg"
+  },
+  {
+    "name": "Call Cancel Rounded",
+    "category": "Call",
+    "path": "Bold/Call/Call Cancel Rounded.svg"
+  },
+  {
+    "name": "Call Cancel",
+    "category": "Call",
+    "path": "Bold/Call/Call Cancel.svg"
+  },
+  {
+    "name": "Call Chat Rounded",
+    "category": "Call",
+    "path": "Bold/Call/Call Chat Rounded.svg"
+  },
+  {
+    "name": "Call Chat",
+    "category": "Call",
+    "path": "Bold/Call/Call Chat.svg"
+  },
+  {
+    "name": "Call Dropped Rounded",
+    "category": "Call",
+    "path": "Bold/Call/Call Dropped Rounded.svg"
+  },
+  {
+    "name": "Call Dropped",
+    "category": "Call",
+    "path": "Bold/Call/Call Dropped.svg"
+  },
+  {
+    "name": "Call Medicine Rounded",
+    "category": "Call",
+    "path": "Bold/Call/Call Medicine Rounded.svg"
+  },
+  {
+    "name": "Call Medicine",
+    "category": "Call",
+    "path": "Bold/Call/Call Medicine.svg"
+  },
+  {
+    "name": "End Call Rounded",
+    "category": "Call",
+    "path": "Bold/Call/End Call Rounded.svg"
+  },
+  {
+    "name": "End Call",
+    "category": "Call",
+    "path": "Bold/Call/End Call.svg"
+  },
+  {
+    "name": "Incoming Call Rounded",
+    "category": "Call",
+    "path": "Bold/Call/Incoming Call Rounded.svg"
+  },
+  {
+    "name": "Incoming Call",
+    "category": "Call",
+    "path": "Bold/Call/Incoming Call.svg"
+  },
+  {
+    "name": "Outgoing Call Rounded",
+    "category": "Call",
+    "path": "Bold/Call/Outgoing Call Rounded.svg"
+  },
+  {
+    "name": "Outgoing Call",
+    "category": "Call",
+    "path": "Bold/Call/Outgoing Call.svg"
+  },
+  {
+    "name": "Phone Calling Rounded",
+    "category": "Call",
+    "path": "Bold/Call/Phone Calling Rounded.svg"
+  },
+  {
+    "name": "Phone Calling",
+    "category": "Call",
+    "path": "Bold/Call/Phone Calling.svg"
+  },
+  {
+    "name": "Phone Rounded",
+    "category": "Call",
+    "path": "Bold/Call/Phone Rounded.svg"
+  },
+  {
+    "name": "Phone",
+    "category": "Call",
+    "path": "Bold/Call/Phone.svg"
+  },
+  {
+    "name": "Record Circle",
+    "category": "Call",
+    "path": "Bold/Call/Record Circle.svg"
+  },
+  {
+    "name": "Record Minimalistic",
+    "category": "Call",
+    "path": "Bold/Call/Record Minimalistic.svg"
+  },
+  {
+    "name": "Record Square",
+    "category": "Call",
+    "path": "Bold/Call/Record Square.svg"
+  },
+  {
+    "name": "Align Bottom",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Align Bottom.svg"
+  },
+  {
+    "name": "Align Horizonta Spacing",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Align Horizonta Spacing.svg"
+  },
+  {
+    "name": "Align Horizontal Center",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Align Horizontal Center.svg"
+  },
+  {
+    "name": "Align Left",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Align Left.svg"
+  },
+  {
+    "name": "Align Right",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Align Right.svg"
+  },
+  {
+    "name": "Align Top",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Align Top.svg"
+  },
+  {
+    "name": "Align Vertical Center",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Align Vertical Center.svg"
+  },
+  {
+    "name": "Align Vertical Spacing",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Align Vertical Spacing.svg"
+  },
+  {
+    "name": "Colour Tuneing",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Colour Tuneing.svg"
+  },
+  {
+    "name": "Crop Minimalistic",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Crop Minimalistic.svg"
+  },
+  {
+    "name": "Crop",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Crop.svg"
+  },
+  {
+    "name": "Filters",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Filters.svg"
+  },
+  {
+    "name": "Flip Horizontal",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Flip Horizontal.svg"
+  },
+  {
+    "name": "Flip Vertical",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Flip Vertical.svg"
+  },
+  {
+    "name": "Layers Minimalistic",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Layers Minimalistic.svg"
+  },
+  {
+    "name": "Layers",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Layers.svg"
+  },
+  {
+    "name": "Mirror Left",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Mirror Left.svg"
+  },
+  {
+    "name": "Mirror Right",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Mirror Right.svg"
+  },
+  {
+    "name": "Paint Roller",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Paint Roller.svg"
+  },
+  {
+    "name": "Palette Round",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Palette Round.svg"
+  },
+  {
+    "name": "Palette",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Palette.svg"
+  },
+  {
+    "name": "Pallete 2",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Pallete 2.svg"
+  },
+  {
+    "name": "Pipette",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Pipette.svg"
+  },
+  {
+    "name": "Radial Blur",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Radial Blur.svg"
+  },
+  {
+    "name": "Ruler Angular",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Ruler Angular.svg"
+  },
+  {
+    "name": "Ruler Cross Pen",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Ruler Cross Pen.svg"
+  },
+  {
+    "name": "Ruler Pen",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Ruler Pen.svg"
+  },
+  {
+    "name": "Ruler",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Ruler.svg"
+  },
+  {
+    "name": "Three Squares",
+    "category": "Design, Tools",
+    "path": "Bold/Design, Tools/Three Squares.svg"
+  },
+  {
+    "name": "Airbuds Case Charge",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Airbuds Case Charge.svg"
+  },
+  {
+    "name": "Airbuds Case Minimalistic",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Airbuds Case Minimalistic.svg"
+  },
+  {
+    "name": "Airbuds Case Open",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Airbuds Case Open.svg"
+  },
+  {
+    "name": "Airbuds Case",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Airbuds Case.svg"
+  },
+  {
+    "name": "Airbuds Charge",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Airbuds Charge.svg"
+  },
+  {
+    "name": "Airbuds Check",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Airbuds Check.svg"
+  },
+  {
+    "name": "Airbuds Left",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Airbuds Left.svg"
+  },
+  {
+    "name": "Airbuds Remove",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Airbuds Remove.svg"
+  },
+  {
+    "name": "Airbuds Right",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Airbuds Right.svg"
+  },
+  {
+    "name": "Airbuds",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Airbuds.svg"
+  },
+  {
+    "name": "Bluetooth Circle",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Bluetooth Circle.svg"
+  },
+  {
+    "name": "Bluetooth Square",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Bluetooth Square.svg"
+  },
+  {
+    "name": "Bluetooth Wave",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Bluetooth Wave.svg"
+  },
+  {
+    "name": "Bluetooth",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Bluetooth.svg"
+  },
+  {
+    "name": "Boombox",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Boombox.svg"
+  },
+  {
+    "name": "CPU Bolt",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/CPU Bolt.svg"
+  },
+  {
+    "name": "CPU",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/CPU.svg"
+  },
+  {
+    "name": "Cassette 2",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Cassette 2.svg"
+  },
+  {
+    "name": "Cassette",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Cassette.svg"
+  },
+  {
+    "name": "Cloud Storage",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Cloud Storage.svg"
+  },
+  {
+    "name": "Devices",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Devices.svg"
+  },
+  {
+    "name": "Diskette",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Diskette.svg"
+  },
+  {
+    "name": "Display",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Display.svg"
+  },
+  {
+    "name": "Flash Drive",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Flash Drive.svg"
+  },
+  {
+    "name": "Gameboy",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Gameboy.svg"
+  },
+  {
+    "name": "Gamepad Charge",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Gamepad Charge.svg"
+  },
+  {
+    "name": "Gamepad Minimalistic",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Gamepad Minimalistic.svg"
+  },
+  {
+    "name": "Gamepad No Charge",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Gamepad No Charge.svg"
+  },
+  {
+    "name": "Gamepad Old",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Gamepad Old.svg"
+  },
+  {
+    "name": "Gamepad",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Gamepad.svg"
+  },
+  {
+    "name": "Headphones Round Sound",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Headphones Round Sound.svg"
+  },
+  {
+    "name": "Headphones Round",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Headphones Round.svg"
+  },
+  {
+    "name": "Headphones Square Sound",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Headphones Square Sound.svg"
+  },
+  {
+    "name": "Headphones Square",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Headphones Square.svg"
+  },
+  {
+    "name": "Keyboard",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Keyboard.svg"
+  },
+  {
+    "name": "Laptop 2",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Laptop 2.svg"
+  },
+  {
+    "name": "Laptop 3",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Laptop 3.svg"
+  },
+  {
+    "name": "Laptop Minimalistic",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Laptop Minimalistic.svg"
+  },
+  {
+    "name": "Laptop",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Laptop.svg"
+  },
+  {
+    "name": "Lightbulb Bolt",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Lightbulb Bolt.svg"
+  },
+  {
+    "name": "Lightbulb Minimalistic",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Lightbulb Minimalistic.svg"
+  },
+  {
+    "name": "Lightbulb",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Lightbulb.svg"
+  },
+  {
+    "name": "Lightning",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Lightning.svg"
+  },
+  {
+    "name": "Monitor Camera",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Monitor Camera.svg"
+  },
+  {
+    "name": "Monitor Smartphone",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Monitor Smartphone.svg"
+  },
+  {
+    "name": "Monitor",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Monitor.svg"
+  },
+  {
+    "name": "Mouse Circle",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Mouse Circle.svg"
+  },
+  {
+    "name": "Mouse Minimalistic",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Mouse Minimalistic.svg"
+  },
+  {
+    "name": "Mouse",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Mouse.svg"
+  },
+  {
+    "name": "Plug Circle",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Plug Circle.svg"
+  },
+  {
+    "name": "Printer 2",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Printer 2.svg"
+  },
+  {
+    "name": "Printer Minimalistic",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Printer Minimalistic.svg"
+  },
+  {
+    "name": "Printer",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Printer.svg"
+  },
+  {
+    "name": "Projector",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Projector.svg"
+  },
+  {
+    "name": "Radio Minimalistic",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Radio Minimalistic.svg"
+  },
+  {
+    "name": "Radio",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Radio.svg"
+  },
+  {
+    "name": "SD Card",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/SD Card.svg"
+  },
+  {
+    "name": "SIM Card Minimalistic",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/SIM Card Minimalistic.svg"
+  },
+  {
+    "name": "SIM Card",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/SIM Card.svg"
+  },
+  {
+    "name": "SIM Cards",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/SIM Cards.svg"
+  },
+  {
+    "name": "SSD Round",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/SSD Round.svg"
+  },
+  {
+    "name": "SSD Square",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/SSD Square.svg"
+  },
+  {
+    "name": "Server 2",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Server 2.svg"
+  },
+  {
+    "name": "Server Minimalistic",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Server Minimalistic.svg"
+  },
+  {
+    "name": "Server Path",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Server Path.svg"
+  },
+  {
+    "name": "Server Square Cloud",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Server Square Cloud.svg"
+  },
+  {
+    "name": "Server Square Update",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Server Square Update.svg"
+  },
+  {
+    "name": "Server Square",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Server Square.svg"
+  },
+  {
+    "name": "Server",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Server.svg"
+  },
+  {
+    "name": "Smart Speaker 2",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Smart Speaker 2.svg"
+  },
+  {
+    "name": "Smart Speaker Minimalistic",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Smart Speaker Minimalistic.svg"
+  },
+  {
+    "name": "Smart Speaker",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Smart Speaker.svg"
+  },
+  {
+    "name": "Smartphone 2",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Smartphone 2.svg"
+  },
+  {
+    "name": "Smartphone Rotate 2",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Smartphone Rotate 2.svg"
+  },
+  {
+    "name": "Smartphone Rotate Angle",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Smartphone Rotate Angle.svg"
+  },
+  {
+    "name": "Smartphone Rotate Orientation",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Smartphone Rotate Orientation.svg"
+  },
+  {
+    "name": "Smartphone Update",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Smartphone Update.svg"
+  },
+  {
+    "name": "Smartphone Vibration",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Smartphone Vibration.svg"
+  },
+  {
+    "name": "Smartphone",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Smartphone.svg"
+  },
+  {
+    "name": "Socket",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Socket.svg"
+  },
+  {
+    "name": "TV",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/TV.svg"
+  },
+  {
+    "name": "Tablet",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Tablet.svg"
+  },
+  {
+    "name": "Telescope",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Telescope.svg"
+  },
+  {
+    "name": "Turntable Minimalistic",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Turntable Minimalistic.svg"
+  },
+  {
+    "name": "Turntable Music Note",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Turntable Music Note.svg"
+  },
+  {
+    "name": "Turntable",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Turntable.svg"
+  },
+  {
+    "name": "Weigher",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Weigher.svg"
+  },
+  {
+    "name": "Wireless Charge",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/Wireless Charge.svg"
+  },
+  {
+    "name": "iPhone",
+    "category": "Electronic, Devices",
+    "path": "Bold/Electronic, Devices/iPhone.svg"
+  },
+  {
+    "name": "4K",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/4K.svg"
+  },
+  {
+    "name": "Accessibility",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Accessibility.svg"
+  },
+  {
+    "name": "Add Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Add Circle.svg"
+  },
+  {
+    "name": "Add Square",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Add Square.svg"
+  },
+  {
+    "name": "Augmented Reality",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Augmented Reality.svg"
+  },
+  {
+    "name": "Balloon",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Balloon.svg"
+  },
+  {
+    "name": "Battery Charge Minimalistic",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Battery Charge Minimalistic.svg"
+  },
+  {
+    "name": "Battery Charge",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Battery Charge.svg"
+  },
+  {
+    "name": "Battery Full Minimalistic",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Battery Full Minimalistic.svg"
+  },
+  {
+    "name": "Battery Full",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Battery Full.svg"
+  },
+  {
+    "name": "Battery Half Minimalistic",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Battery Half Minimalistic.svg"
+  },
+  {
+    "name": "Battery Half",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Battery Half.svg"
+  },
+  {
+    "name": "Battery Low Minimalistic",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Battery Low Minimalistic.svg"
+  },
+  {
+    "name": "Battery Low",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Battery Low.svg"
+  },
+  {
+    "name": "Body",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Body.svg"
+  },
+  {
+    "name": "Bolt Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Bolt Circle.svg"
+  },
+  {
+    "name": "Bolt",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Bolt.svg"
+  },
+  {
+    "name": "Box Minimalistic",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Box Minimalistic.svg"
+  },
+  {
+    "name": "Box",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Box.svg"
+  },
+  {
+    "name": "Broom",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Broom.svg"
+  },
+  {
+    "name": "Cat",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Cat.svg"
+  },
+  {
+    "name": "Check Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Check Circle.svg"
+  },
+  {
+    "name": "Check Square",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Check Square.svg"
+  },
+  {
+    "name": "Close Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Close Circle.svg"
+  },
+  {
+    "name": "Close Square",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Close Square.svg"
+  },
+  {
+    "name": "Confetti Minimalistic",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Confetti Minimalistic.svg"
+  },
+  {
+    "name": "Confetti",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Confetti.svg"
+  },
+  {
+    "name": "Copy",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Copy.svg"
+  },
+  {
+    "name": "Copyright",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Copyright.svg"
+  },
+  {
+    "name": "Cosmetic",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Cosmetic.svg"
+  },
+  {
+    "name": "Creative Commons",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Creative Commons.svg"
+  },
+  {
+    "name": "Crown Line",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Crown Line.svg"
+  },
+  {
+    "name": "Crown Minimalistic",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Crown Minimalistic.svg"
+  },
+  {
+    "name": "Crown Star",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Crown Star.svg"
+  },
+  {
+    "name": "Crown",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Crown.svg"
+  },
+  {
+    "name": "Cup First",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Cup First.svg"
+  },
+  {
+    "name": "Cup Music",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Cup Music.svg"
+  },
+  {
+    "name": "Cup Star",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Cup Star.svg"
+  },
+  {
+    "name": "Cup",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Cup.svg"
+  },
+  {
+    "name": "Cursor Square",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Cursor Square.svg"
+  },
+  {
+    "name": "Cursor",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Cursor.svg"
+  },
+  {
+    "name": "Danger Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Danger Circle.svg"
+  },
+  {
+    "name": "Danger Square",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Danger Square.svg"
+  },
+  {
+    "name": "Danger Triangle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Danger Triangle.svg"
+  },
+  {
+    "name": "Danger",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Danger.svg"
+  },
+  {
+    "name": "Database",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Database.svg"
+  },
+  {
+    "name": "Delivery",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Delivery.svg"
+  },
+  {
+    "name": "Explicit",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Explicit.svg"
+  },
+  {
+    "name": "Feed",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Feed.svg"
+  },
+  {
+    "name": "Ferris Wheel",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Ferris Wheel.svg"
+  },
+  {
+    "name": "Figma",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Figma.svg"
+  },
+  {
+    "name": "Filter",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Filter.svg"
+  },
+  {
+    "name": "Flag 2",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Flag 2.svg"
+  },
+  {
+    "name": "Flag",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Flag.svg"
+  },
+  {
+    "name": "Flashlight On",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Flashlight On.svg"
+  },
+  {
+    "name": "Flashlight",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Flashlight.svg"
+  },
+  {
+    "name": "Forbidden Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Forbidden Circle.svg"
+  },
+  {
+    "name": "Forbidden",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Forbidden.svg"
+  },
+  {
+    "name": "Fuel",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Fuel.svg"
+  },
+  {
+    "name": "Ghost Smile",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Ghost Smile.svg"
+  },
+  {
+    "name": "Ghost",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Ghost.svg"
+  },
+  {
+    "name": "Gift",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Gift.svg"
+  },
+  {
+    "name": "Glasses",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Glasses.svg"
+  },
+  {
+    "name": "Hamburger Menu",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Hamburger Menu.svg"
+  },
+  {
+    "name": "Hanger 2",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Hanger 2.svg"
+  },
+  {
+    "name": "Hanger",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Hanger.svg"
+  },
+  {
+    "name": "Help",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Help.svg"
+  },
+  {
+    "name": "High Definition",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/High Definition.svg"
+  },
+  {
+    "name": "High Quality",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/High Quality.svg"
+  },
+  {
+    "name": "Home 2",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Home 2.svg"
+  },
+  {
+    "name": "Home Add Angle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Home Add Angle.svg"
+  },
+  {
+    "name": "Home Add",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Home Add.svg"
+  },
+  {
+    "name": "Home Angle 2",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Home Angle 2.svg"
+  },
+  {
+    "name": "Home Angle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Home Angle.svg"
+  },
+  {
+    "name": "Home Smile Angle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Home Smile Angle.svg"
+  },
+  {
+    "name": "Home Smile",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Home Smile.svg"
+  },
+  {
+    "name": "Home WiFi Angle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Home WiFi Angle.svg"
+  },
+  {
+    "name": "Home WiFi",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Home WiFi.svg"
+  },
+  {
+    "name": "Home",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Home.svg"
+  },
+  {
+    "name": "Info Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Info Circle.svg"
+  },
+  {
+    "name": "Info Square",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Info Square.svg"
+  },
+  {
+    "name": "Magic Stick 2",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Magic Stick 2.svg"
+  },
+  {
+    "name": "Magic Stick 3",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Magic Stick 3.svg"
+  },
+  {
+    "name": "Magic Stick",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Magic Stick.svg"
+  },
+  {
+    "name": "Magnet Wave",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Magnet Wave.svg"
+  },
+  {
+    "name": "Magnet",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Magnet.svg"
+  },
+  {
+    "name": "Mask Happly",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Mask Happly.svg"
+  },
+  {
+    "name": "Mask Sad",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Mask Sad.svg"
+  },
+  {
+    "name": "Masks",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Masks.svg"
+  },
+  {
+    "name": "Mention Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Mention Circle.svg"
+  },
+  {
+    "name": "Mention Square",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Mention Square.svg"
+  },
+  {
+    "name": "Menu Dots Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Menu Dots Circle.svg"
+  },
+  {
+    "name": "Menu Dots Square",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Menu Dots Square.svg"
+  },
+  {
+    "name": "Menu Dots",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Menu Dots.svg"
+  },
+  {
+    "name": "Minus Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Minus Circle.svg"
+  },
+  {
+    "name": "Minus Square",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Minus Square.svg"
+  },
+  {
+    "name": "Mirror",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Mirror.svg"
+  },
+  {
+    "name": "Paper Bin",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Paper Bin.svg"
+  },
+  {
+    "name": "Paw",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Paw.svg"
+  },
+  {
+    "name": "Perfume",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Perfume.svg"
+  },
+  {
+    "name": "Pin Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Pin Circle.svg"
+  },
+  {
+    "name": "Pin List",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Pin List.svg"
+  },
+  {
+    "name": "Pin",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Pin.svg"
+  },
+  {
+    "name": "Plate",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Plate.svg"
+  },
+  {
+    "name": "Posts Carousel Horizontal",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Posts Carousel Horizontal.svg"
+  },
+  {
+    "name": "Posts Carousel Vertical",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Posts Carousel Vertical.svg"
+  },
+  {
+    "name": "Power",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Power.svg"
+  },
+  {
+    "name": "Question Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Question Circle.svg"
+  },
+  {
+    "name": "Question Square",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Question Square.svg"
+  },
+  {
+    "name": "Reorder",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Reorder.svg"
+  },
+  {
+    "name": "Revote",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Revote.svg"
+  },
+  {
+    "name": "Scissors Square",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Scissors Square.svg"
+  },
+  {
+    "name": "Scissors",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Scissors.svg"
+  },
+  {
+    "name": "Share Circle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Share Circle.svg"
+  },
+  {
+    "name": "Share",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Share.svg"
+  },
+  {
+    "name": "Skirt",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Skirt.svg"
+  },
+  {
+    "name": "Sledgehammer",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Sledgehammer.svg"
+  },
+  {
+    "name": "Sleeping",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Sleeping.svg"
+  },
+  {
+    "name": "Slider Horizontal",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Slider Horizontal.svg"
+  },
+  {
+    "name": "Slider Minimalistic Horizontal",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Slider Minimalistic Horizontal.svg"
+  },
+  {
+    "name": "Slider Vertical Minimalistic",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Slider Vertical Minimalistic.svg"
+  },
+  {
+    "name": "Slider Vertical",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Slider Vertical.svg"
+  },
+  {
+    "name": "Smart Home Angle",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Smart Home Angle.svg"
+  },
+  {
+    "name": "Smart Home",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Smart Home.svg"
+  },
+  {
+    "name": "Sort",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Sort.svg"
+  },
+  {
+    "name": "Special Effects",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Special Effects.svg"
+  },
+  {
+    "name": "Subtitles",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Subtitles.svg"
+  },
+  {
+    "name": "T-shirt",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/T-shirt.svg"
+  },
+  {
+    "name": "Target",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Target.svg"
+  },
+  {
+    "name": "Traffic Economy",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Traffic Economy.svg"
+  },
+  {
+    "name": "Traffic",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Traffic.svg"
+  },
+  {
+    "name": "Trash Bin 2",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Trash Bin 2.svg"
+  },
+  {
+    "name": "Trash Bin Minimalistic 2",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Trash Bin Minimalistic 2.svg"
+  },
+  {
+    "name": "Trash Bin Minimalistic",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Trash Bin Minimalistic.svg"
+  },
+  {
+    "name": "Trash Bin Trash",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Trash Bin Trash.svg"
+  },
+  {
+    "name": "Umbrella",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Umbrella.svg"
+  },
+  {
+    "name": "Waterdrop",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/Waterdrop.svg"
+  },
+  {
+    "name": "WinRar",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/WinRar.svg"
+  },
+  {
+    "name": "XXX",
+    "category": "Essentional, UI",
+    "path": "Bold/Essentional, UI/XXX.svg"
+  },
+  {
+    "name": "Confounded Circle",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Confounded Circle.svg"
+  },
+  {
+    "name": "Confounded Square",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Confounded Square.svg"
+  },
+  {
+    "name": "Emoji Funny Circle",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Emoji Funny Circle.svg"
+  },
+  {
+    "name": "Emoji Funny Square",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Emoji Funny Square.svg"
+  },
+  {
+    "name": "Expressionless Circle",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Expressionless Circle.svg"
+  },
+  {
+    "name": "Expressionless Square",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Expressionless Square.svg"
+  },
+  {
+    "name": "Face Scan Circle",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Face Scan Circle.svg"
+  },
+  {
+    "name": "Face Scan Square",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Face Scan Square.svg"
+  },
+  {
+    "name": "Facemask Circle",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Facemask Circle.svg"
+  },
+  {
+    "name": "Facemask Square",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Facemask Square.svg"
+  },
+  {
+    "name": "Sad Circle",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Sad Circle.svg"
+  },
+  {
+    "name": "Sad Square",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Sad Square.svg"
+  },
+  {
+    "name": "Sleeping Circle",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Sleeping Circle.svg"
+  },
+  {
+    "name": "Sleeping Square",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Sleeping Square.svg"
+  },
+  {
+    "name": "Smile Circle",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Smile Circle.svg"
+  },
+  {
+    "name": "Smile Square",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Smile Square.svg"
+  },
+  {
+    "name": "Sticker Circle",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Sticker Circle.svg"
+  },
+  {
+    "name": "Sticker Smile Circle 2",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Sticker Smile Circle 2.svg"
+  },
+  {
+    "name": "Sticker Smile Circle",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Sticker Smile Circle.svg"
+  },
+  {
+    "name": "Sticker Smile Square",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Sticker Smile Square.svg"
+  },
+  {
+    "name": "Sticker Square",
+    "category": "Faces, Emotions, Stickers",
+    "path": "Bold/Faces, Emotions, Stickers/Sticker Square.svg"
+  },
+  {
+    "name": "Cloud File",
+    "category": "Files",
+    "path": "Bold/Files/Cloud File.svg"
+  },
+  {
+    "name": "Code File",
+    "category": "Files",
+    "path": "Bold/Files/Code File.svg"
+  },
+  {
+    "name": "Figma File",
+    "category": "Files",
+    "path": "Bold/Files/Figma File.svg"
+  },
+  {
+    "name": "File Check",
+    "category": "Files",
+    "path": "Bold/Files/File Check.svg"
+  },
+  {
+    "name": "File Corrupted",
+    "category": "Files",
+    "path": "Bold/Files/File Corrupted.svg"
+  },
+  {
+    "name": "File Download",
+    "category": "Files",
+    "path": "Bold/Files/File Download.svg"
+  },
+  {
+    "name": "File Favourite",
+    "category": "Files",
+    "path": "Bold/Files/File Favourite.svg"
+  },
+  {
+    "name": "File Left",
+    "category": "Files",
+    "path": "Bold/Files/File Left.svg"
+  },
+  {
+    "name": "File Remove",
+    "category": "Files",
+    "path": "Bold/Files/File Remove.svg"
+  },
+  {
+    "name": "File Right",
+    "category": "Files",
+    "path": "Bold/Files/File Right.svg"
+  },
+  {
+    "name": "File Send",
+    "category": "Files",
+    "path": "Bold/Files/File Send.svg"
+  },
+  {
+    "name": "File Smile _)",
+    "category": "Files",
+    "path": "Bold/Files/File Smile _).svg"
+  },
+  {
+    "name": "File Text",
+    "category": "Files",
+    "path": "Bold/Files/File Text.svg"
+  },
+  {
+    "name": "File",
+    "category": "Files",
+    "path": "Bold/Files/File.svg"
+  },
+  {
+    "name": "ZIP File",
+    "category": "Files",
+    "path": "Bold/Files/ZIP File.svg"
+  },
+  {
+    "name": "Add Folder",
+    "category": "Folders",
+    "path": "Bold/Folders/Add Folder.svg"
+  },
+  {
+    "name": "Folder 2",
+    "category": "Folders",
+    "path": "Bold/Folders/Folder 2.svg"
+  },
+  {
+    "name": "Folder Check",
+    "category": "Folders",
+    "path": "Bold/Folders/Folder Check.svg"
+  },
+  {
+    "name": "Folder Cloud",
+    "category": "Folders",
+    "path": "Bold/Folders/Folder Cloud.svg"
+  },
+  {
+    "name": "Folder Error",
+    "category": "Folders",
+    "path": "Bold/Folders/Folder Error.svg"
+  },
+  {
+    "name": "Folder Favourite (Bookmark)",
+    "category": "Folders",
+    "path": "Bold/Folders/Folder Favourite (Bookmark).svg"
+  },
+  {
+    "name": "Folder Favourite (Star)",
+    "category": "Folders",
+    "path": "Bold/Folders/Folder Favourite (Star).svg"
+  },
+  {
+    "name": "Folder Open",
+    "category": "Folders",
+    "path": "Bold/Folders/Folder Open.svg"
+  },
+  {
+    "name": "Folder Path Connect",
+    "category": "Folders",
+    "path": "Bold/Folders/Folder Path Connect.svg"
+  },
+  {
+    "name": "Folder Security",
+    "category": "Folders",
+    "path": "Bold/Folders/Folder Security.svg"
+  },
+  {
+    "name": "Folder With Files",
+    "category": "Folders",
+    "path": "Bold/Folders/Folder With Files.svg"
+  },
+  {
+    "name": "Folder",
+    "category": "Folders",
+    "path": "Bold/Folders/Folder.svg"
+  },
+  {
+    "name": "Move To Folder",
+    "category": "Folders",
+    "path": "Bold/Folders/Move To Folder.svg"
+  },
+  {
+    "name": "Remove Folder",
+    "category": "Folders",
+    "path": "Bold/Folders/Remove Folder.svg"
+  },
+  {
+    "name": "Bottle",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Bottle.svg"
+  },
+  {
+    "name": "Chef Hat Heart",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Chef Hat Heart.svg"
+  },
+  {
+    "name": "Chef Hat Minimalistic",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Chef Hat Minimalistic.svg"
+  },
+  {
+    "name": "Chef Hat",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Chef Hat.svg"
+  },
+  {
+    "name": "Corkscrew",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Corkscrew.svg"
+  },
+  {
+    "name": "Cup Hot",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Cup Hot.svg"
+  },
+  {
+    "name": "Cup Paper",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Cup Paper.svg"
+  },
+  {
+    "name": "Cup",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Cup.svg"
+  },
+  {
+    "name": "Donut Bitten",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Donut Bitten.svg"
+  },
+  {
+    "name": "Donut",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Donut.svg"
+  },
+  {
+    "name": "Ladle",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Ladle.svg"
+  },
+  {
+    "name": "Oven Mitts Minimalistic",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Oven Mitts Minimalistic.svg"
+  },
+  {
+    "name": "Oven Mitts",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Oven Mitts.svg"
+  },
+  {
+    "name": "Rolling Pin",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Rolling Pin.svg"
+  },
+  {
+    "name": "Tea Cup",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Tea Cup.svg"
+  },
+  {
+    "name": "Whisk",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Whisk.svg"
+  },
+  {
+    "name": "Wineglass Triangle",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Wineglass Triangle.svg"
+  },
+  {
+    "name": "Wineglass",
+    "category": "Food, Kitchen",
+    "path": "Bold/Food, Kitchen/Wineglass.svg"
+  },
+  {
+    "name": "Hand Heart",
+    "category": "Hands",
+    "path": "Bold/Hands/Hand Heart.svg"
+  },
+  {
+    "name": "Hand Money",
+    "category": "Hands",
+    "path": "Bold/Hands/Hand Money.svg"
+  },
+  {
+    "name": "Hand Pills",
+    "category": "Hands",
+    "path": "Bold/Hands/Hand Pills.svg"
+  },
+  {
+    "name": "Hand Shake",
+    "category": "Hands",
+    "path": "Bold/Hands/Hand Shake.svg"
+  },
+  {
+    "name": "Hand Stars",
+    "category": "Hands",
+    "path": "Bold/Hands/Hand Stars.svg"
+  },
+  {
+    "name": "Armchair 2",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Armchair 2.svg"
+  },
+  {
+    "name": "Armchair",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Armchair.svg"
+  },
+  {
+    "name": "Bar Chair",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Bar Chair.svg"
+  },
+  {
+    "name": "Bath",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Bath.svg"
+  },
+  {
+    "name": "Bed",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Bed.svg"
+  },
+  {
+    "name": "Bedside Table 2",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Bedside Table 2.svg"
+  },
+  {
+    "name": "Bedside Table 3",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Bedside Table 3.svg"
+  },
+  {
+    "name": "Bedside Table 4",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Bedside Table 4.svg"
+  },
+  {
+    "name": "Bedside Table",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Bedside Table.svg"
+  },
+  {
+    "name": "Chair 2",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Chair 2.svg"
+  },
+  {
+    "name": "Chair",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Chair.svg"
+  },
+  {
+    "name": "Chandelier",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Chandelier.svg"
+  },
+  {
+    "name": "Closet 2",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Closet 2.svg"
+  },
+  {
+    "name": "Closet",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Closet.svg"
+  },
+  {
+    "name": "Condicioner 2",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Condicioner 2.svg"
+  },
+  {
+    "name": "Condicioner",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Condicioner.svg"
+  },
+  {
+    "name": "Floor Lamp Minimalistic",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Floor Lamp Minimalistic.svg"
+  },
+  {
+    "name": "Floor Lamp",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Floor Lamp.svg"
+  },
+  {
+    "name": "Fridge",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Fridge.svg"
+  },
+  {
+    "name": "Lamp",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Lamp.svg"
+  },
+  {
+    "name": "Mirror",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Mirror.svg"
+  },
+  {
+    "name": "Remote Controller 2",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Remote Controller 2.svg"
+  },
+  {
+    "name": "Remote Controller Minimalistic",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Remote Controller Minimalistic.svg"
+  },
+  {
+    "name": "Remote Controller",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Remote Controller.svg"
+  },
+  {
+    "name": "Smart Vacuum Cleaner 2",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Smart Vacuum Cleaner 2.svg"
+  },
+  {
+    "name": "Smart Vacuum Cleaner",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Smart Vacuum Cleaner.svg"
+  },
+  {
+    "name": "Sofa 2",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Sofa 2.svg"
+  },
+  {
+    "name": "Sofa 3",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Sofa 3.svg"
+  },
+  {
+    "name": "Sofa",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Sofa.svg"
+  },
+  {
+    "name": "Speaker Minimalistic",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Speaker Minimalistic.svg"
+  },
+  {
+    "name": "Speaker",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Speaker.svg"
+  },
+  {
+    "name": "Trellis",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Trellis.svg"
+  },
+  {
+    "name": "Volume Knob",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Volume Knob.svg"
+  },
+  {
+    "name": "Washing Machine Minimalistic",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Washing Machine Minimalistic.svg"
+  },
+  {
+    "name": "Washing Machine",
+    "category": "Home, Furniture",
+    "path": "Bold/Home, Furniture/Washing Machine.svg"
+  },
+  {
+    "name": "Dislike",
+    "category": "Like",
+    "path": "Bold/Like/Dislike.svg"
+  },
+  {
+    "name": "Heart Angle",
+    "category": "Like",
+    "path": "Bold/Like/Heart Angle.svg"
+  },
+  {
+    "name": "Heart Broken",
+    "category": "Like",
+    "path": "Bold/Like/Heart Broken.svg"
+  },
+  {
+    "name": "Heart Lock",
+    "category": "Like",
+    "path": "Bold/Like/Heart Lock.svg"
+  },
+  {
+    "name": "Heart Shine",
+    "category": "Like",
+    "path": "Bold/Like/Heart Shine.svg"
+  },
+  {
+    "name": "Heart Unlock",
+    "category": "Like",
+    "path": "Bold/Like/Heart Unlock.svg"
+  },
+  {
+    "name": "Heart",
+    "category": "Like",
+    "path": "Bold/Like/Heart.svg"
+  },
+  {
+    "name": "Hearts",
+    "category": "Like",
+    "path": "Bold/Like/Hearts.svg"
+  },
+  {
+    "name": "Like",
+    "category": "Like",
+    "path": "Bold/Like/Like.svg"
+  },
+  {
+    "name": "Medal Ribbon Star",
+    "category": "Like",
+    "path": "Bold/Like/Medal Ribbon Star.svg"
+  },
+  {
+    "name": "Medal Ribbon",
+    "category": "Like",
+    "path": "Bold/Like/Medal Ribbon.svg"
+  },
+  {
+    "name": "Medal Ribbons Star",
+    "category": "Like",
+    "path": "Bold/Like/Medal Ribbons Star.svg"
+  },
+  {
+    "name": "Medal Star Circle",
+    "category": "Like",
+    "path": "Bold/Like/Medal Star Circle.svg"
+  },
+  {
+    "name": "Medal Star Square",
+    "category": "Like",
+    "path": "Bold/Like/Medal Star Square.svg"
+  },
+  {
+    "name": "Medal Star",
+    "category": "Like",
+    "path": "Bold/Like/Medal Star.svg"
+  },
+  {
+    "name": "Star Shine",
+    "category": "Like",
+    "path": "Bold/Like/Star Shine.svg"
+  },
+  {
+    "name": "Star",
+    "category": "Like",
+    "path": "Bold/Like/Star.svg"
+  },
+  {
+    "name": "Bill",
+    "category": "List",
+    "path": "Bold/List/Bill.svg"
+  },
+  {
+    "name": "Checklist Minimalistic",
+    "category": "List",
+    "path": "Bold/List/Checklist Minimalistic.svg"
+  },
+  {
+    "name": "Checklist",
+    "category": "List",
+    "path": "Bold/List/Checklist.svg"
+  },
+  {
+    "name": "List Arrow Down Minimalistic",
+    "category": "List",
+    "path": "Bold/List/List Arrow Down Minimalistic.svg"
+  },
+  {
+    "name": "List Arrow Down",
+    "category": "List",
+    "path": "Bold/List/List Arrow Down.svg"
+  },
+  {
+    "name": "List Arrow Up Minimalistic",
+    "category": "List",
+    "path": "Bold/List/List Arrow Up Minimalistic.svg"
+  },
+  {
+    "name": "List Arrow Up",
+    "category": "List",
+    "path": "Bold/List/List Arrow Up.svg"
+  },
+  {
+    "name": "List Check Minimalistic",
+    "category": "List",
+    "path": "Bold/List/List Check Minimalistic.svg"
+  },
+  {
+    "name": "List Check",
+    "category": "List",
+    "path": "Bold/List/List Check.svg"
+  },
+  {
+    "name": "List Cross Minimalistic",
+    "category": "List",
+    "path": "Bold/List/List Cross Minimalistic.svg"
+  },
+  {
+    "name": "List Cross",
+    "category": "List",
+    "path": "Bold/List/List Cross.svg"
+  },
+  {
+    "name": "List Down Minimalistic",
+    "category": "List",
+    "path": "Bold/List/List Down Minimalistic.svg"
+  },
+  {
+    "name": "List Down",
+    "category": "List",
+    "path": "Bold/List/List Down.svg"
+  },
+  {
+    "name": "List Heart Minimalistic",
+    "category": "List",
+    "path": "Bold/List/List Heart Minimalistic.svg"
+  },
+  {
+    "name": "List Heart",
+    "category": "List",
+    "path": "Bold/List/List Heart.svg"
+  },
+  {
+    "name": "List Up Minimalistic",
+    "category": "List",
+    "path": "Bold/List/List Up Minimalistic.svg"
+  },
+  {
+    "name": "List Up",
+    "category": "List",
+    "path": "Bold/List/List Up.svg"
+  },
+  {
+    "name": "List-1",
+    "category": "List",
+    "path": "Bold/List/List-1.svg"
+  },
+  {
+    "name": "List",
+    "category": "List",
+    "path": "Bold/List/List.svg"
+  },
+  {
+    "name": "Plaaylist Minimalistic",
+    "category": "List",
+    "path": "Bold/List/Plaaylist Minimalistic.svg"
+  },
+  {
+    "name": "Playlist 2",
+    "category": "List",
+    "path": "Bold/List/Playlist 2.svg"
+  },
+  {
+    "name": "Playlist Minimalistic 2",
+    "category": "List",
+    "path": "Bold/List/Playlist Minimalistic 2.svg"
+  },
+  {
+    "name": "Playlist Minimalistic 3",
+    "category": "List",
+    "path": "Bold/List/Playlist Minimalistic 3.svg"
+  },
+  {
+    "name": "Playlist",
+    "category": "List",
+    "path": "Bold/List/Playlist.svg"
+  },
+  {
+    "name": "Sort By Alphabet",
+    "category": "List",
+    "path": "Bold/List/Sort By Alphabet.svg"
+  },
+  {
+    "name": "Sort By Time",
+    "category": "List",
+    "path": "Bold/List/Sort By Time.svg"
+  },
+  {
+    "name": "Sort From Bottom To Top",
+    "category": "List",
+    "path": "Bold/List/Sort From Bottom To Top.svg"
+  },
+  {
+    "name": "Sort From Top To Bottom",
+    "category": "List",
+    "path": "Bold/List/Sort From Top To Bottom.svg"
+  },
+  {
+    "name": "Branching Paths Down",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Branching Paths Down.svg"
+  },
+  {
+    "name": "Branching Paths Up",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Branching Paths Up.svg"
+  },
+  {
+    "name": "Compass Big",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Compass Big.svg"
+  },
+  {
+    "name": "Compass Square",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Compass Square.svg"
+  },
+  {
+    "name": "Compass",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Compass.svg"
+  },
+  {
+    "name": "GPS",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/GPS.svg"
+  },
+  {
+    "name": "Global",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Global.svg"
+  },
+  {
+    "name": "Globus",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Globus.svg"
+  },
+  {
+    "name": "Map Arrow Down",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Arrow Down.svg"
+  },
+  {
+    "name": "Map Arrow Left",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Arrow Left.svg"
+  },
+  {
+    "name": "Map Arrow Right",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Arrow Right.svg"
+  },
+  {
+    "name": "Map Arrow Square",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Arrow Square.svg"
+  },
+  {
+    "name": "Map Arrow Up",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Arrow Up.svg"
+  },
+  {
+    "name": "Map Point Add",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Point Add.svg"
+  },
+  {
+    "name": "Map Point Favourite",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Point Favourite.svg"
+  },
+  {
+    "name": "Map Point Hospital",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Point Hospital.svg"
+  },
+  {
+    "name": "Map Point Remove",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Point Remove.svg"
+  },
+  {
+    "name": "Map Point Rotate",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Point Rotate.svg"
+  },
+  {
+    "name": "Map Point School",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Point School.svg"
+  },
+  {
+    "name": "Map Point Search",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Point Search.svg"
+  },
+  {
+    "name": "Map Point Wave",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Point Wave.svg"
+  },
+  {
+    "name": "Map Point",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map Point.svg"
+  },
+  {
+    "name": "Map",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Map.svg"
+  },
+  {
+    "name": "People Nearby",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/People Nearby.svg"
+  },
+  {
+    "name": "Point On Map Perspective",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Point On Map Perspective.svg"
+  },
+  {
+    "name": "Point On Map",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Point On Map.svg"
+  },
+  {
+    "name": "Radar 2",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Radar 2.svg"
+  },
+  {
+    "name": "Radar",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Radar.svg"
+  },
+  {
+    "name": "Route",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Route.svg"
+  },
+  {
+    "name": "Routing 2",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Routing 2.svg"
+  },
+  {
+    "name": "Routing 3",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Routing 3.svg"
+  },
+  {
+    "name": "Routing",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Routing.svg"
+  },
+  {
+    "name": "Signpost 2",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Signpost 2.svg"
+  },
+  {
+    "name": "Signpost",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Signpost.svg"
+  },
+  {
+    "name": "Streets Map Point",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Streets Map Point.svg"
+  },
+  {
+    "name": "Streets Navigation",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Streets Navigation.svg"
+  },
+  {
+    "name": "Streets",
+    "category": "Map & Location",
+    "path": "Bold/Map & Location/Streets.svg"
+  },
+  {
+    "name": "Adhesive Plaster 2",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Adhesive Plaster 2.svg"
+  },
+  {
+    "name": "Adhesive Plaster",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Adhesive Plaster.svg"
+  },
+  {
+    "name": "Bacteria",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Bacteria.svg"
+  },
+  {
+    "name": "Benzene Ring",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Benzene Ring.svg"
+  },
+  {
+    "name": "Bone Broken",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Bone Broken.svg"
+  },
+  {
+    "name": "Bone Crack",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Bone Crack.svg"
+  },
+  {
+    "name": "Bone",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Bone.svg"
+  },
+  {
+    "name": "Bones",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Bones.svg"
+  },
+  {
+    "name": "DNA",
+    "category": "Medicine",
+    "path": "Bold/Medicine/DNA.svg"
+  },
+  {
+    "name": "Dropper 2",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Dropper 2.svg"
+  },
+  {
+    "name": "Dropper 3",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Dropper 3.svg"
+  },
+  {
+    "name": "Dropper Minimalistic 2",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Dropper Minimalistic 2.svg"
+  },
+  {
+    "name": "Dropper Minimalistic",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Dropper Minimalistic.svg"
+  },
+  {
+    "name": "Dropper",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Dropper.svg"
+  },
+  {
+    "name": "Health",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Health.svg"
+  },
+  {
+    "name": "Heart Pulse 2",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Heart Pulse 2.svg"
+  },
+  {
+    "name": "Heart Pulse",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Heart Pulse.svg"
+  },
+  {
+    "name": "Jar Of Pills 2",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Jar Of Pills 2.svg"
+  },
+  {
+    "name": "Jar Of Pills",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Jar Of Pills.svg"
+  },
+  {
+    "name": "Medical Kit",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Medical Kit.svg"
+  },
+  {
+    "name": "Pill",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Pill.svg"
+  },
+  {
+    "name": "Pills 2",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Pills 2.svg"
+  },
+  {
+    "name": "Pills 3",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Pills 3.svg"
+  },
+  {
+    "name": "Pills",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Pills.svg"
+  },
+  {
+    "name": "Pulse 2",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Pulse 2.svg"
+  },
+  {
+    "name": "Pulse",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Pulse.svg"
+  },
+  {
+    "name": "Stethoscope",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Stethoscope.svg"
+  },
+  {
+    "name": "Syringe",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Syringe.svg"
+  },
+  {
+    "name": "Test Tube Minimalistic",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Test Tube Minimalistic.svg"
+  },
+  {
+    "name": "Test Tube",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Test Tube.svg"
+  },
+  {
+    "name": "Thermometer",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Thermometer.svg"
+  },
+  {
+    "name": "Virus",
+    "category": "Medicine",
+    "path": "Bold/Medicine/Virus.svg"
+  },
+  {
+    "name": "Chat Dots",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Dots.svg"
+  },
+  {
+    "name": "Chat Line",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Line.svg"
+  },
+  {
+    "name": "Chat Round Call",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Round Call.svg"
+  },
+  {
+    "name": "Chat Round Check",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Round Check.svg"
+  },
+  {
+    "name": "Chat Round Dots",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Round Dots.svg"
+  },
+  {
+    "name": "Chat Round Like",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Round Like.svg"
+  },
+  {
+    "name": "Chat Round Line",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Round Line.svg"
+  },
+  {
+    "name": "Chat Round Money",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Round Money.svg"
+  },
+  {
+    "name": "Chat Round Unread",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Round Unread.svg"
+  },
+  {
+    "name": "Chat Round Video",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Round Video.svg"
+  },
+  {
+    "name": "Chat Round",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Round.svg"
+  },
+  {
+    "name": "Chat Square Arrow",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Square Arrow.svg"
+  },
+  {
+    "name": "Chat Square Call",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Square Call.svg"
+  },
+  {
+    "name": "Chat Square Check",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Square Check.svg"
+  },
+  {
+    "name": "Chat Square Code",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Square Code.svg"
+  },
+  {
+    "name": "Chat Square Like",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Square Like.svg"
+  },
+  {
+    "name": "Chat Square",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Square.svg"
+  },
+  {
+    "name": "Chat Unread",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Chat Unread.svg"
+  },
+  {
+    "name": "Check Read",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Check Read.svg"
+  },
+  {
+    "name": "Dialog 2",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Dialog 2.svg"
+  },
+  {
+    "name": "Dialog",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Dialog.svg"
+  },
+  {
+    "name": "Forward",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Forward.svg"
+  },
+  {
+    "name": "Inbox Archive",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Inbox Archive.svg"
+  },
+  {
+    "name": "Inbox In",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Inbox In.svg"
+  },
+  {
+    "name": "Inbox Line",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Inbox Line.svg"
+  },
+  {
+    "name": "Inbox Out",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Inbox Out.svg"
+  },
+  {
+    "name": "Inbox Unread",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Inbox Unread.svg"
+  },
+  {
+    "name": "Inbox",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Inbox.svg"
+  },
+  {
+    "name": "Letter Opened",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Letter Opened.svg"
+  },
+  {
+    "name": "Letter Unread",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Letter Unread.svg"
+  },
+  {
+    "name": "Letter",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Letter.svg"
+  },
+  {
+    "name": "Mailbox",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Mailbox.svg"
+  },
+  {
+    "name": "Multiple Forward Left",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Multiple Forward Left.svg"
+  },
+  {
+    "name": "Multiple Forward Right",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Multiple Forward Right.svg"
+  },
+  {
+    "name": "Paperclip 2",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Paperclip 2.svg"
+  },
+  {
+    "name": "Paperclip Rounded 2",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Paperclip Rounded 2.svg"
+  },
+  {
+    "name": "Paperclip Rounded",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Paperclip Rounded.svg"
+  },
+  {
+    "name": "Paperclip",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Paperclip.svg"
+  },
+  {
+    "name": "Pen 2",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Pen 2.svg"
+  },
+  {
+    "name": "Pen New Round",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Pen New Round.svg"
+  },
+  {
+    "name": "Pen New Square",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Pen New Square.svg"
+  },
+  {
+    "name": "Pen",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Pen.svg"
+  },
+  {
+    "name": "Plain 2",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Plain 2.svg"
+  },
+  {
+    "name": "Plain 3",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Plain 3.svg"
+  },
+  {
+    "name": "Plain",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Plain.svg"
+  },
+  {
+    "name": "Square Forward",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Square Forward.svg"
+  },
+  {
+    "name": "Square Share Line",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Square Share Line.svg"
+  },
+  {
+    "name": "Unread",
+    "category": "Messages, Conversation",
+    "path": "Bold/Messages, Conversation/Unread.svg"
+  },
+  {
+    "name": "Banknote 2",
+    "category": "Money",
+    "path": "Bold/Money/Banknote 2.svg"
+  },
+  {
+    "name": "Banknote",
+    "category": "Money",
+    "path": "Bold/Money/Banknote.svg"
+  },
+  {
+    "name": "Bill Check",
+    "category": "Money",
+    "path": "Bold/Money/Bill Check.svg"
+  },
+  {
+    "name": "Bill Cross",
+    "category": "Money",
+    "path": "Bold/Money/Bill Cross.svg"
+  },
+  {
+    "name": "Bill List",
+    "category": "Money",
+    "path": "Bold/Money/Bill List.svg"
+  },
+  {
+    "name": "Bill",
+    "category": "Money",
+    "path": "Bold/Money/Bill.svg"
+  },
+  {
+    "name": "Card 2",
+    "category": "Money",
+    "path": "Bold/Money/Card 2.svg"
+  },
+  {
+    "name": "Card Recive",
+    "category": "Money",
+    "path": "Bold/Money/Card Recive.svg"
+  },
+  {
+    "name": "Card Search",
+    "category": "Money",
+    "path": "Bold/Money/Card Search.svg"
+  },
+  {
+    "name": "Card Send",
+    "category": "Money",
+    "path": "Bold/Money/Card Send.svg"
+  },
+  {
+    "name": "Card Transfer",
+    "category": "Money",
+    "path": "Bold/Money/Card Transfer.svg"
+  },
+  {
+    "name": "Card",
+    "category": "Money",
+    "path": "Bold/Money/Card.svg"
+  },
+  {
+    "name": "Cardholder",
+    "category": "Money",
+    "path": "Bold/Money/Cardholder.svg"
+  },
+  {
+    "name": "Cash Out",
+    "category": "Money",
+    "path": "Bold/Money/Cash Out.svg"
+  },
+  {
+    "name": "Dollar Minimalistic",
+    "category": "Money",
+    "path": "Bold/Money/Dollar Minimalistic.svg"
+  },
+  {
+    "name": "Dollar",
+    "category": "Money",
+    "path": "Bold/Money/Dollar.svg"
+  },
+  {
+    "name": "Euro",
+    "category": "Money",
+    "path": "Bold/Money/Euro.svg"
+  },
+  {
+    "name": "Money Bag",
+    "category": "Money",
+    "path": "Bold/Money/Money Bag.svg"
+  },
+  {
+    "name": "Ruble",
+    "category": "Money",
+    "path": "Bold/Money/Ruble.svg"
+  },
+  {
+    "name": "Safe 2",
+    "category": "Money",
+    "path": "Bold/Money/Safe 2.svg"
+  },
+  {
+    "name": "Safe Circle",
+    "category": "Money",
+    "path": "Bold/Money/Safe Circle.svg"
+  },
+  {
+    "name": "Safe Square",
+    "category": "Money",
+    "path": "Bold/Money/Safe Square.svg"
+  },
+  {
+    "name": "Sale Square",
+    "category": "Money",
+    "path": "Bold/Money/Sale Square.svg"
+  },
+  {
+    "name": "Sale",
+    "category": "Money",
+    "path": "Bold/Money/Sale.svg"
+  },
+  {
+    "name": "Tag Horizontal",
+    "category": "Money",
+    "path": "Bold/Money/Tag Horizontal.svg"
+  },
+  {
+    "name": "Tag Price",
+    "category": "Money",
+    "path": "Bold/Money/Tag Price.svg"
+  },
+  {
+    "name": "Tag",
+    "category": "Money",
+    "path": "Bold/Money/Tag.svg"
+  },
+  {
+    "name": "Ticker Star",
+    "category": "Money",
+    "path": "Bold/Money/Ticker Star.svg"
+  },
+  {
+    "name": "Ticket Sale",
+    "category": "Money",
+    "path": "Bold/Money/Ticket Sale.svg"
+  },
+  {
+    "name": "Ticket",
+    "category": "Money",
+    "path": "Bold/Money/Ticket.svg"
+  },
+  {
+    "name": "Verified Check",
+    "category": "Money",
+    "path": "Bold/Money/Verified Check.svg"
+  },
+  {
+    "name": "Wad Of Money",
+    "category": "Money",
+    "path": "Bold/Money/Wad Of Money.svg"
+  },
+  {
+    "name": "Wallet 2",
+    "category": "Money",
+    "path": "Bold/Money/Wallet 2.svg"
+  },
+  {
+    "name": "Wallet Money",
+    "category": "Money",
+    "path": "Bold/Money/Wallet Money.svg"
+  },
+  {
+    "name": "Wallet",
+    "category": "Money",
+    "path": "Bold/Money/Wallet.svg"
+  },
+  {
+    "name": "Bonfire",
+    "category": "Nature, Travel",
+    "path": "Bold/Nature, Travel/Bonfire.svg"
+  },
+  {
+    "name": "Fire Minimalistic",
+    "category": "Nature, Travel",
+    "path": "Bold/Nature, Travel/Fire Minimalistic.svg"
+  },
+  {
+    "name": "Fire Square",
+    "category": "Nature, Travel",
+    "path": "Bold/Nature, Travel/Fire Square.svg"
+  },
+  {
+    "name": "Fire",
+    "category": "Nature, Travel",
+    "path": "Bold/Nature, Travel/Fire.svg"
+  },
+  {
+    "name": "Flame",
+    "category": "Nature, Travel",
+    "path": "Bold/Nature, Travel/Flame.svg"
+  },
+  {
+    "name": "Leaf",
+    "category": "Nature, Travel",
+    "path": "Bold/Nature, Travel/Leaf.svg"
+  },
+  {
+    "name": "Suitcase Lines",
+    "category": "Nature, Travel",
+    "path": "Bold/Nature, Travel/Suitcase Lines.svg"
+  },
+  {
+    "name": "Suitcase Tag",
+    "category": "Nature, Travel",
+    "path": "Bold/Nature, Travel/Suitcase Tag.svg"
+  },
+  {
+    "name": "Suitcase",
+    "category": "Nature, Travel",
+    "path": "Bold/Nature, Travel/Suitcase.svg"
+  },
+  {
+    "name": "Bug Minimalistic",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Bug Minimalistic.svg"
+  },
+  {
+    "name": "Bug",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Bug.svg"
+  },
+  {
+    "name": "Code 2",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Code 2.svg"
+  },
+  {
+    "name": "Code Circle",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Code Circle.svg"
+  },
+  {
+    "name": "Code Square",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Code Square.svg"
+  },
+  {
+    "name": "Code",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Code.svg"
+  },
+  {
+    "name": "Command",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Command.svg"
+  },
+  {
+    "name": "Hashtag Chat",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Hashtag Chat.svg"
+  },
+  {
+    "name": "Hashtag Circle",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Hashtag Circle.svg"
+  },
+  {
+    "name": "Hashtag Square",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Hashtag Square.svg"
+  },
+  {
+    "name": "Hashtag",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Hashtag.svg"
+  },
+  {
+    "name": "Programming",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Programming.svg"
+  },
+  {
+    "name": "Screencast 2",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Screencast 2.svg"
+  },
+  {
+    "name": "Screencast",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Screencast.svg"
+  },
+  {
+    "name": "Sidebar Code",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Sidebar Code.svg"
+  },
+  {
+    "name": "Sidebar Minimalistic",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Sidebar Minimalistic.svg"
+  },
+  {
+    "name": "Siderbar",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Siderbar.svg"
+  },
+  {
+    "name": "Slash Circle",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Slash Circle.svg"
+  },
+  {
+    "name": "Slash Square",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Slash Square.svg"
+  },
+  {
+    "name": "Station Minimalistic",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Station Minimalistic.svg"
+  },
+  {
+    "name": "Station",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Station.svg"
+  },
+  {
+    "name": "Structure",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Structure.svg"
+  },
+  {
+    "name": "Translation 2",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Translation 2.svg"
+  },
+  {
+    "name": "Translation",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Translation.svg"
+  },
+  {
+    "name": "USB Circle",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/USB Circle.svg"
+  },
+  {
+    "name": "USB Square",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/USB Square.svg"
+  },
+  {
+    "name": "USB",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/USB.svg"
+  },
+  {
+    "name": "Wi-Fi Router Minimalistic",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Wi-Fi Router Minimalistic.svg"
+  },
+  {
+    "name": "Wi-Fi Router Round",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Wi-Fi Router Round.svg"
+  },
+  {
+    "name": "Wi-Fi Router",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Wi-Fi Router.svg"
+  },
+  {
+    "name": "Window Frame",
+    "category": "Network, IT, Programming",
+    "path": "Bold/Network, IT, Programming/Window Frame.svg"
+  },
+  {
+    "name": "Archive Check",
+    "category": "Notes",
+    "path": "Bold/Notes/Archive Check.svg"
+  },
+  {
+    "name": "Archive Down Minimlistic",
+    "category": "Notes",
+    "path": "Bold/Notes/Archive Down Minimlistic.svg"
+  },
+  {
+    "name": "Archive Down",
+    "category": "Notes",
+    "path": "Bold/Notes/Archive Down.svg"
+  },
+  {
+    "name": "Archive Minimalistic",
+    "category": "Notes",
+    "path": "Bold/Notes/Archive Minimalistic.svg"
+  },
+  {
+    "name": "Archive Up Minimlistic",
+    "category": "Notes",
+    "path": "Bold/Notes/Archive Up Minimlistic.svg"
+  },
+  {
+    "name": "Archive Up",
+    "category": "Notes",
+    "path": "Bold/Notes/Archive Up.svg"
+  },
+  {
+    "name": "Archive",
+    "category": "Notes",
+    "path": "Bold/Notes/Archive.svg"
+  },
+  {
+    "name": "Clipboard Add",
+    "category": "Notes",
+    "path": "Bold/Notes/Clipboard Add.svg"
+  },
+  {
+    "name": "Clipboard Check",
+    "category": "Notes",
+    "path": "Bold/Notes/Clipboard Check.svg"
+  },
+  {
+    "name": "Clipboard Heart",
+    "category": "Notes",
+    "path": "Bold/Notes/Clipboard Heart.svg"
+  },
+  {
+    "name": "Clipboard List",
+    "category": "Notes",
+    "path": "Bold/Notes/Clipboard List.svg"
+  },
+  {
+    "name": "Clipboard Remove",
+    "category": "Notes",
+    "path": "Bold/Notes/Clipboard Remove.svg"
+  },
+  {
+    "name": "Clipboard Text",
+    "category": "Notes",
+    "path": "Bold/Notes/Clipboard Text.svg"
+  },
+  {
+    "name": "Clipboard",
+    "category": "Notes",
+    "path": "Bold/Notes/Clipboard.svg"
+  },
+  {
+    "name": "Document Add",
+    "category": "Notes",
+    "path": "Bold/Notes/Document Add.svg"
+  },
+  {
+    "name": "Document Medicine",
+    "category": "Notes",
+    "path": "Bold/Notes/Document Medicine.svg"
+  },
+  {
+    "name": "Document Text",
+    "category": "Notes",
+    "path": "Bold/Notes/Document Text.svg"
+  },
+  {
+    "name": "Document",
+    "category": "Notes",
+    "path": "Bold/Notes/Document.svg"
+  },
+  {
+    "name": "Documents Minimalistic",
+    "category": "Notes",
+    "path": "Bold/Notes/Documents Minimalistic.svg"
+  },
+  {
+    "name": "Documents",
+    "category": "Notes",
+    "path": "Bold/Notes/Documents.svg"
+  },
+  {
+    "name": "Notebook",
+    "category": "Notes",
+    "path": "Bold/Notes/Notebook.svg"
+  },
+  {
+    "name": "Notes Minimalistic",
+    "category": "Notes",
+    "path": "Bold/Notes/Notes Minimalistic.svg"
+  },
+  {
+    "name": "Notes",
+    "category": "Notes",
+    "path": "Bold/Notes/Notes.svg"
+  },
+  {
+    "name": "Bell Bing",
+    "category": "Notifications",
+    "path": "Bold/Notifications/Bell Bing.svg"
+  },
+  {
+    "name": "Bell Off",
+    "category": "Notifications",
+    "path": "Bold/Notifications/Bell Off.svg"
+  },
+  {
+    "name": "Bell",
+    "category": "Notifications",
+    "path": "Bold/Notifications/Bell.svg"
+  },
+  {
+    "name": "Notification Lines Remove",
+    "category": "Notifications",
+    "path": "Bold/Notifications/Notification Lines Remove.svg"
+  },
+  {
+    "name": "Notification Remove",
+    "category": "Notifications",
+    "path": "Bold/Notifications/Notification Remove.svg"
+  },
+  {
+    "name": "Notification Unread Lines",
+    "category": "Notifications",
+    "path": "Bold/Notifications/Notification Unread Lines.svg"
+  },
+  {
+    "name": "Notification Unread",
+    "category": "Notifications",
+    "path": "Bold/Notifications/Notification Unread.svg"
+  },
+  {
+    "name": "Backpack",
+    "category": "School",
+    "path": "Bold/School/Backpack.svg"
+  },
+  {
+    "name": "Book 2",
+    "category": "School",
+    "path": "Bold/School/Book 2.svg"
+  },
+  {
+    "name": "Book Bookmark Minimalistic",
+    "category": "School",
+    "path": "Bold/School/Book Bookmark Minimalistic.svg"
+  },
+  {
+    "name": "Book Bookmark",
+    "category": "School",
+    "path": "Bold/School/Book Bookmark.svg"
+  },
+  {
+    "name": "Book Minimalistic",
+    "category": "School",
+    "path": "Bold/School/Book Minimalistic.svg"
+  },
+  {
+    "name": "Book",
+    "category": "School",
+    "path": "Bold/School/Book.svg"
+  },
+  {
+    "name": "Bookmark Circle",
+    "category": "School",
+    "path": "Bold/School/Bookmark Circle.svg"
+  },
+  {
+    "name": "Bookmark Opened",
+    "category": "School",
+    "path": "Bold/School/Bookmark Opened.svg"
+  },
+  {
+    "name": "Bookmark Square Minimalistic",
+    "category": "School",
+    "path": "Bold/School/Bookmark Square Minimalistic.svg"
+  },
+  {
+    "name": "Bookmark Square",
+    "category": "School",
+    "path": "Bold/School/Bookmark Square.svg"
+  },
+  {
+    "name": "Bookmark",
+    "category": "School",
+    "path": "Bold/School/Bookmark.svg"
+  },
+  {
+    "name": "Calculator Minimalistic",
+    "category": "School",
+    "path": "Bold/School/Calculator Minimalistic.svg"
+  },
+  {
+    "name": "Calculator",
+    "category": "School",
+    "path": "Bold/School/Calculator.svg"
+  },
+  {
+    "name": "Case Minimalistic",
+    "category": "School",
+    "path": "Bold/School/Case Minimalistic.svg"
+  },
+  {
+    "name": "Case Round Minimalistic",
+    "category": "School",
+    "path": "Bold/School/Case Round Minimalistic.svg"
+  },
+  {
+    "name": "Case Round",
+    "category": "School",
+    "path": "Bold/School/Case Round.svg"
+  },
+  {
+    "name": "Case",
+    "category": "School",
+    "path": "Bold/School/Case.svg"
+  },
+  {
+    "name": "Diploma Verified",
+    "category": "School",
+    "path": "Bold/School/Diploma Verified.svg"
+  },
+  {
+    "name": "Diploma",
+    "category": "School",
+    "path": "Bold/School/Diploma.svg"
+  },
+  {
+    "name": "Document",
+    "category": "School",
+    "path": "Bold/School/Document.svg"
+  },
+  {
+    "name": "Notebook Bookmark",
+    "category": "School",
+    "path": "Bold/School/Notebook Bookmark.svg"
+  },
+  {
+    "name": "Notebook Minimalistic",
+    "category": "School",
+    "path": "Bold/School/Notebook Minimalistic.svg"
+  },
+  {
+    "name": "Notebook Square",
+    "category": "School",
+    "path": "Bold/School/Notebook Square.svg"
+  },
+  {
+    "name": "Notebook",
+    "category": "School",
+    "path": "Bold/School/Notebook.svg"
+  },
+  {
+    "name": "Passport Minimalistic",
+    "category": "School",
+    "path": "Bold/School/Passport Minimalistic.svg"
+  },
+  {
+    "name": "Passport",
+    "category": "School",
+    "path": "Bold/School/Passport.svg"
+  },
+  {
+    "name": "Plus, Minus",
+    "category": "School",
+    "path": "Bold/School/Plus, Minus.svg"
+  },
+  {
+    "name": "Square Academic Cap 2",
+    "category": "School",
+    "path": "Bold/School/Square Academic Cap 2.svg"
+  },
+  {
+    "name": "Square Academic Cap",
+    "category": "School",
+    "path": "Bold/School/Square Academic Cap.svg"
+  },
+  {
+    "name": "Magnifer Bug",
+    "category": "Search",
+    "path": "Bold/Search/Magnifer Bug.svg"
+  },
+  {
+    "name": "Magnifer Zoom In",
+    "category": "Search",
+    "path": "Bold/Search/Magnifer Zoom In.svg"
+  },
+  {
+    "name": "Magnifer Zoom Out",
+    "category": "Search",
+    "path": "Bold/Search/Magnifer Zoom Out.svg"
+  },
+  {
+    "name": "Magnifer",
+    "category": "Search",
+    "path": "Bold/Search/Magnifer.svg"
+  },
+  {
+    "name": "Minimalistic Magnifer Bug",
+    "category": "Search",
+    "path": "Bold/Search/Minimalistic Magnifer Bug.svg"
+  },
+  {
+    "name": "Minimalistic Magnifer Zoom In",
+    "category": "Search",
+    "path": "Bold/Search/Minimalistic Magnifer Zoom In.svg"
+  },
+  {
+    "name": "Minimalistic Magnifer Zoom Out",
+    "category": "Search",
+    "path": "Bold/Search/Minimalistic Magnifer Zoom Out.svg"
+  },
+  {
+    "name": "Minimalistic Magnifer",
+    "category": "Search",
+    "path": "Bold/Search/Minimalistic Magnifer.svg"
+  },
+  {
+    "name": "Rounded Magnifer Bug",
+    "category": "Search",
+    "path": "Bold/Search/Rounded Magnifer Bug.svg"
+  },
+  {
+    "name": "Rounded Magnifer Zoom In",
+    "category": "Search",
+    "path": "Bold/Search/Rounded Magnifer Zoom In.svg"
+  },
+  {
+    "name": "Rounded Magnifer Zoom Out",
+    "category": "Search",
+    "path": "Bold/Search/Rounded Magnifer Zoom Out.svg"
+  },
+  {
+    "name": "Rounded Magnifer",
+    "category": "Search",
+    "path": "Bold/Search/Rounded Magnifer.svg"
+  },
+  {
+    "name": "Bomb Emoji",
+    "category": "Security",
+    "path": "Bold/Security/Bomb Emoji.svg"
+  },
+  {
+    "name": "Bomb Minimalistic",
+    "category": "Security",
+    "path": "Bold/Security/Bomb Minimalistic.svg"
+  },
+  {
+    "name": "Bomb",
+    "category": "Security",
+    "path": "Bold/Security/Bomb.svg"
+  },
+  {
+    "name": "Code Scan",
+    "category": "Security",
+    "path": "Bold/Security/Code Scan.svg"
+  },
+  {
+    "name": "Eye Closed",
+    "category": "Security",
+    "path": "Bold/Security/Eye Closed.svg"
+  },
+  {
+    "name": "Eye Scan",
+    "category": "Security",
+    "path": "Bold/Security/Eye Scan.svg"
+  },
+  {
+    "name": "Eye",
+    "category": "Security",
+    "path": "Bold/Security/Eye.svg"
+  },
+  {
+    "name": "Incognito",
+    "category": "Security",
+    "path": "Bold/Security/Incognito.svg"
+  },
+  {
+    "name": "Key Minimalistic 2",
+    "category": "Security",
+    "path": "Bold/Security/Key Minimalistic 2.svg"
+  },
+  {
+    "name": "Key Minimalistic Square 2",
+    "category": "Security",
+    "path": "Bold/Security/Key Minimalistic Square 2.svg"
+  },
+  {
+    "name": "Key Minimalistic Square 3",
+    "category": "Security",
+    "path": "Bold/Security/Key Minimalistic Square 3.svg"
+  },
+  {
+    "name": "Key Minimalistic Square",
+    "category": "Security",
+    "path": "Bold/Security/Key Minimalistic Square.svg"
+  },
+  {
+    "name": "Key Minimalistic",
+    "category": "Security",
+    "path": "Bold/Security/Key Minimalistic.svg"
+  },
+  {
+    "name": "Key Square 2",
+    "category": "Security",
+    "path": "Bold/Security/Key Square 2.svg"
+  },
+  {
+    "name": "Key Square",
+    "category": "Security",
+    "path": "Bold/Security/Key Square.svg"
+  },
+  {
+    "name": "Key",
+    "category": "Security",
+    "path": "Bold/Security/Key.svg"
+  },
+  {
+    "name": "Lock Keyhole Minimalistic Unlocked",
+    "category": "Security",
+    "path": "Bold/Security/Lock Keyhole Minimalistic Unlocked.svg"
+  },
+  {
+    "name": "Lock Keyhole Minimalistic",
+    "category": "Security",
+    "path": "Bold/Security/Lock Keyhole Minimalistic.svg"
+  },
+  {
+    "name": "Lock Keyhole Unlocked",
+    "category": "Security",
+    "path": "Bold/Security/Lock Keyhole Unlocked.svg"
+  },
+  {
+    "name": "Lock Keyhole",
+    "category": "Security",
+    "path": "Bold/Security/Lock Keyhole.svg"
+  },
+  {
+    "name": "Lock Password Unlocked",
+    "category": "Security",
+    "path": "Bold/Security/Lock Password Unlocked.svg"
+  },
+  {
+    "name": "Lock Password",
+    "category": "Security",
+    "path": "Bold/Security/Lock Password.svg"
+  },
+  {
+    "name": "Lock Unlocked",
+    "category": "Security",
+    "path": "Bold/Security/Lock Unlocked.svg"
+  },
+  {
+    "name": "Lock",
+    "category": "Security",
+    "path": "Bold/Security/Lock.svg"
+  },
+  {
+    "name": "Object Scan",
+    "category": "Security",
+    "path": "Bold/Security/Object Scan.svg"
+  },
+  {
+    "name": "Password Minimalistic Input",
+    "category": "Security",
+    "path": "Bold/Security/Password Minimalistic Input.svg"
+  },
+  {
+    "name": "Password Minimalistic",
+    "category": "Security",
+    "path": "Bold/Security/Password Minimalistic.svg"
+  },
+  {
+    "name": "Password",
+    "category": "Security",
+    "path": "Bold/Security/Password.svg"
+  },
+  {
+    "name": "QR Code",
+    "category": "Security",
+    "path": "Bold/Security/QR Code.svg"
+  },
+  {
+    "name": "Scanner 2",
+    "category": "Security",
+    "path": "Bold/Security/Scanner 2.svg"
+  },
+  {
+    "name": "Scanner",
+    "category": "Security",
+    "path": "Bold/Security/Scanner.svg"
+  },
+  {
+    "name": "Shield Check",
+    "category": "Security",
+    "path": "Bold/Security/Shield Check.svg"
+  },
+  {
+    "name": "Shield Cross",
+    "category": "Security",
+    "path": "Bold/Security/Shield Cross.svg"
+  },
+  {
+    "name": "Shield Keyhole Minimalistic",
+    "category": "Security",
+    "path": "Bold/Security/Shield Keyhole Minimalistic.svg"
+  },
+  {
+    "name": "Shield Keyhole",
+    "category": "Security",
+    "path": "Bold/Security/Shield Keyhole.svg"
+  },
+  {
+    "name": "Shield Minimalistic",
+    "category": "Security",
+    "path": "Bold/Security/Shield Minimalistic.svg"
+  },
+  {
+    "name": "Shield Minus",
+    "category": "Security",
+    "path": "Bold/Security/Shield Minus.svg"
+  },
+  {
+    "name": "Shield Network",
+    "category": "Security",
+    "path": "Bold/Security/Shield Network.svg"
+  },
+  {
+    "name": "Shield Plus",
+    "category": "Security",
+    "path": "Bold/Security/Shield Plus.svg"
+  },
+  {
+    "name": "Shield Star",
+    "category": "Security",
+    "path": "Bold/Security/Shield Star.svg"
+  },
+  {
+    "name": "Shield Up",
+    "category": "Security",
+    "path": "Bold/Security/Shield Up.svg"
+  },
+  {
+    "name": "Shield User",
+    "category": "Security",
+    "path": "Bold/Security/Shield User.svg"
+  },
+  {
+    "name": "Shield Warning",
+    "category": "Security",
+    "path": "Bold/Security/Shield Warning.svg"
+  },
+  {
+    "name": "Shield",
+    "category": "Security",
+    "path": "Bold/Security/Shield.svg"
+  },
+  {
+    "name": "Siren Rounded",
+    "category": "Security",
+    "path": "Bold/Security/Siren Rounded.svg"
+  },
+  {
+    "name": "Siren",
+    "category": "Security",
+    "path": "Bold/Security/Siren.svg"
+  },
+  {
+    "name": "Settings Minimalistic",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Settings Minimalistic.svg"
+  },
+  {
+    "name": "Settings",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Settings.svg"
+  },
+  {
+    "name": "Tuning 2",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Tuning 2.svg"
+  },
+  {
+    "name": "Tuning 3",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Tuning 3.svg"
+  },
+  {
+    "name": "Tuning 4",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Tuning 4.svg"
+  },
+  {
+    "name": "Tuning Square 2",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Tuning Square 2.svg"
+  },
+  {
+    "name": "Tuning Square",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Tuning Square.svg"
+  },
+  {
+    "name": "Tuning",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Tuning.svg"
+  },
+  {
+    "name": "Widget 2",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Widget 2.svg"
+  },
+  {
+    "name": "Widget 3",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Widget 3.svg"
+  },
+  {
+    "name": "Widget 4",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Widget 4.svg"
+  },
+  {
+    "name": "Widget 5",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Widget 5.svg"
+  },
+  {
+    "name": "Widget 6",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Widget 6.svg"
+  },
+  {
+    "name": "Widget Add",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Widget Add.svg"
+  },
+  {
+    "name": "Widget",
+    "category": "Settings, Fine Tuning",
+    "path": "Bold/Settings, Fine Tuning/Widget.svg"
+  },
+  {
+    "name": "Bag 2",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Bag 2.svg"
+  },
+  {
+    "name": "Bag 3",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Bag 3.svg"
+  },
+  {
+    "name": "Bag 4",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Bag 4.svg"
+  },
+  {
+    "name": "Bag 5",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Bag 5.svg"
+  },
+  {
+    "name": "Bag Check",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Bag Check.svg"
+  },
+  {
+    "name": "Bag Cross",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Bag Cross.svg"
+  },
+  {
+    "name": "Bag Heart",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Bag Heart.svg"
+  },
+  {
+    "name": "Bag Music 2",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Bag Music 2.svg"
+  },
+  {
+    "name": "Bag Music",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Bag Music.svg"
+  },
+  {
+    "name": "Bag Smile",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Bag Smile.svg"
+  },
+  {
+    "name": "Bag",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Bag.svg"
+  },
+  {
+    "name": "Cart 2",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart 2.svg"
+  },
+  {
+    "name": "Cart 3",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart 3.svg"
+  },
+  {
+    "name": "Cart 4",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart 4.svg"
+  },
+  {
+    "name": "Cart 5",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart 5.svg"
+  },
+  {
+    "name": "Cart Check",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart Check.svg"
+  },
+  {
+    "name": "Cart Cross",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart Cross.svg"
+  },
+  {
+    "name": "Cart Large 2",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart Large 2.svg"
+  },
+  {
+    "name": "Cart Large 3",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart Large 3.svg"
+  },
+  {
+    "name": "Cart Large 4",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart Large 4.svg"
+  },
+  {
+    "name": "Cart Large Minimalistic",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart Large Minimalistic.svg"
+  },
+  {
+    "name": "Cart Large",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart Large.svg"
+  },
+  {
+    "name": "Cart Plus",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart Plus.svg"
+  },
+  {
+    "name": "Cart",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Cart.svg"
+  },
+  {
+    "name": "Shop 2",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Shop 2.svg"
+  },
+  {
+    "name": "Shop Minimalistic",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Shop Minimalistic.svg"
+  },
+  {
+    "name": "Shop",
+    "category": "Shopping, Ecommerce",
+    "path": "Bold/Shopping, Ecommerce/Shop.svg"
+  },
+  {
+    "name": "Balls",
+    "category": "Sports",
+    "path": "Bold/Sports/Balls.svg"
+  },
+  {
+    "name": "Basketball",
+    "category": "Sports",
+    "path": "Bold/Sports/Basketball.svg"
+  },
+  {
+    "name": "Bicycling Round",
+    "category": "Sports",
+    "path": "Bold/Sports/Bicycling Round.svg"
+  },
+  {
+    "name": "Bicycling",
+    "category": "Sports",
+    "path": "Bold/Sports/Bicycling.svg"
+  },
+  {
+    "name": "Body Shape Minimalistic",
+    "category": "Sports",
+    "path": "Bold/Sports/Body Shape Minimalistic.svg"
+  },
+  {
+    "name": "Body Shape",
+    "category": "Sports",
+    "path": "Bold/Sports/Body Shape.svg"
+  },
+  {
+    "name": "Bowling",
+    "category": "Sports",
+    "path": "Bold/Sports/Bowling.svg"
+  },
+  {
+    "name": "Dumbbell Large Minimalistic",
+    "category": "Sports",
+    "path": "Bold/Sports/Dumbbell Large Minimalistic.svg"
+  },
+  {
+    "name": "Dumbbell Large",
+    "category": "Sports",
+    "path": "Bold/Sports/Dumbbell Large.svg"
+  },
+  {
+    "name": "Dumbbell Small",
+    "category": "Sports",
+    "path": "Bold/Sports/Dumbbell Small.svg"
+  },
+  {
+    "name": "Dumbbell",
+    "category": "Sports",
+    "path": "Bold/Sports/Dumbbell.svg"
+  },
+  {
+    "name": "Dumbbells 2",
+    "category": "Sports",
+    "path": "Bold/Sports/Dumbbells 2.svg"
+  },
+  {
+    "name": "Dumbbells",
+    "category": "Sports",
+    "path": "Bold/Sports/Dumbbells.svg"
+  },
+  {
+    "name": "Football",
+    "category": "Sports",
+    "path": "Bold/Sports/Football.svg"
+  },
+  {
+    "name": "Golf",
+    "category": "Sports",
+    "path": "Bold/Sports/Golf.svg"
+  },
+  {
+    "name": "Hiking Minimalistic",
+    "category": "Sports",
+    "path": "Bold/Sports/Hiking Minimalistic.svg"
+  },
+  {
+    "name": "Hiking Round",
+    "category": "Sports",
+    "path": "Bold/Sports/Hiking Round.svg"
+  },
+  {
+    "name": "Hiking",
+    "category": "Sports",
+    "path": "Bold/Sports/Hiking.svg"
+  },
+  {
+    "name": "Meditation Round",
+    "category": "Sports",
+    "path": "Bold/Sports/Meditation Round.svg"
+  },
+  {
+    "name": "Meditation",
+    "category": "Sports",
+    "path": "Bold/Sports/Meditation.svg"
+  },
+  {
+    "name": "Ranking",
+    "category": "Sports",
+    "path": "Bold/Sports/Ranking.svg"
+  },
+  {
+    "name": "Rugby",
+    "category": "Sports",
+    "path": "Bold/Sports/Rugby.svg"
+  },
+  {
+    "name": "Running 2",
+    "category": "Sports",
+    "path": "Bold/Sports/Running 2.svg"
+  },
+  {
+    "name": "Running Round",
+    "category": "Sports",
+    "path": "Bold/Sports/Running Round.svg"
+  },
+  {
+    "name": "Running",
+    "category": "Sports",
+    "path": "Bold/Sports/Running.svg"
+  },
+  {
+    "name": "Skateboard",
+    "category": "Sports",
+    "path": "Bold/Sports/Skateboard.svg"
+  },
+  {
+    "name": "Skateboarding Round",
+    "category": "Sports",
+    "path": "Bold/Sports/Skateboarding Round.svg"
+  },
+  {
+    "name": "Skateboarding",
+    "category": "Sports",
+    "path": "Bold/Sports/Skateboarding.svg"
+  },
+  {
+    "name": "Stretching Round",
+    "category": "Sports",
+    "path": "Bold/Sports/Stretching Round.svg"
+  },
+  {
+    "name": "Stretching",
+    "category": "Sports",
+    "path": "Bold/Sports/Stretching.svg"
+  },
+  {
+    "name": "Swimming",
+    "category": "Sports",
+    "path": "Bold/Sports/Swimming.svg"
+  },
+  {
+    "name": "Tennis 2",
+    "category": "Sports",
+    "path": "Bold/Sports/Tennis 2.svg"
+  },
+  {
+    "name": "Tennis",
+    "category": "Sports",
+    "path": "Bold/Sports/Tennis.svg"
+  },
+  {
+    "name": "Treadmill Round",
+    "category": "Sports",
+    "path": "Bold/Sports/Treadmill Round.svg"
+  },
+  {
+    "name": "Treadmill",
+    "category": "Sports",
+    "path": "Bold/Sports/Treadmill.svg"
+  },
+  {
+    "name": "Volleyball 2",
+    "category": "Sports",
+    "path": "Bold/Sports/Volleyball 2.svg"
+  },
+  {
+    "name": "Volleyball",
+    "category": "Sports",
+    "path": "Bold/Sports/Volleyball.svg"
+  },
+  {
+    "name": "Walking Round",
+    "category": "Sports",
+    "path": "Bold/Sports/Walking Round.svg"
+  },
+  {
+    "name": "Walking",
+    "category": "Sports",
+    "path": "Bold/Sports/Walking.svg"
+  },
+  {
+    "name": "Water Sun",
+    "category": "Sports",
+    "path": "Bold/Sports/Water Sun.svg"
+  },
+  {
+    "name": "Water",
+    "category": "Sports",
+    "path": "Bold/Sports/Water.svg"
+  },
+  {
+    "name": "Backspace",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Backspace.svg"
+  },
+  {
+    "name": "Eraser Circle",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Eraser Circle.svg"
+  },
+  {
+    "name": "Eraser Square",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Eraser Square.svg"
+  },
+  {
+    "name": "Eraser",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Eraser.svg"
+  },
+  {
+    "name": "Link Broken Minimalistic",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Link Broken Minimalistic.svg"
+  },
+  {
+    "name": "Link Broken",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Link Broken.svg"
+  },
+  {
+    "name": "Link Circle",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Link Circle.svg"
+  },
+  {
+    "name": "Link Minimalistic 2",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Link Minimalistic 2.svg"
+  },
+  {
+    "name": "Link Minimalistic",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Link Minimalistic.svg"
+  },
+  {
+    "name": "Link Round Angle",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Link Round Angle.svg"
+  },
+  {
+    "name": "Link Round",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Link Round.svg"
+  },
+  {
+    "name": "Link Square",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Link Square.svg"
+  },
+  {
+    "name": "Link",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Link.svg"
+  },
+  {
+    "name": "Paragraph Spacing",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Paragraph Spacing.svg"
+  },
+  {
+    "name": "Text Bold Circle",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Bold Circle.svg"
+  },
+  {
+    "name": "Text Bold Square",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Bold Square.svg"
+  },
+  {
+    "name": "Text Bold",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Bold.svg"
+  },
+  {
+    "name": "Text Circle",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Circle.svg"
+  },
+  {
+    "name": "Text Cross Circle",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Cross Circle.svg"
+  },
+  {
+    "name": "Text Cross Square",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Cross Square.svg"
+  },
+  {
+    "name": "Text Cross",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Cross.svg"
+  },
+  {
+    "name": "Text Field Focus",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Field Focus.svg"
+  },
+  {
+    "name": "Text Field",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Field.svg"
+  },
+  {
+    "name": "Text Italic Circle",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Italic Circle.svg"
+  },
+  {
+    "name": "Text Italic Square",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Italic Square.svg"
+  },
+  {
+    "name": "Text Italic",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Italic.svg"
+  },
+  {
+    "name": "Text Selection",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Selection.svg"
+  },
+  {
+    "name": "Text Square 2",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Square 2.svg"
+  },
+  {
+    "name": "Text Square",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Square.svg"
+  },
+  {
+    "name": "Text Underline Circle",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Underline Circle.svg"
+  },
+  {
+    "name": "Text Underline Cross",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Underline Cross.svg"
+  },
+  {
+    "name": "Text Underline",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text Underline.svg"
+  },
+  {
+    "name": "Text",
+    "category": "Text Formatting",
+    "path": "Bold/Text Formatting/Text.svg"
+  },
+  {
+    "name": "Alarm Add",
+    "category": "Time",
+    "path": "Bold/Time/Alarm Add.svg"
+  },
+  {
+    "name": "Alarm Pause",
+    "category": "Time",
+    "path": "Bold/Time/Alarm Pause.svg"
+  },
+  {
+    "name": "Alarm Play",
+    "category": "Time",
+    "path": "Bold/Time/Alarm Play.svg"
+  },
+  {
+    "name": "Alarm Remove",
+    "category": "Time",
+    "path": "Bold/Time/Alarm Remove.svg"
+  },
+  {
+    "name": "Alarm Sleep",
+    "category": "Time",
+    "path": "Bold/Time/Alarm Sleep.svg"
+  },
+  {
+    "name": "Alarm Turn Off",
+    "category": "Time",
+    "path": "Bold/Time/Alarm Turn Off.svg"
+  },
+  {
+    "name": "Alarm",
+    "category": "Time",
+    "path": "Bold/Time/Alarm.svg"
+  },
+  {
+    "name": "Calendar Add",
+    "category": "Time",
+    "path": "Bold/Time/Calendar Add.svg"
+  },
+  {
+    "name": "Calendar Date",
+    "category": "Time",
+    "path": "Bold/Time/Calendar Date.svg"
+  },
+  {
+    "name": "Calendar Mark",
+    "category": "Time",
+    "path": "Bold/Time/Calendar Mark.svg"
+  },
+  {
+    "name": "Calendar Minimalistic",
+    "category": "Time",
+    "path": "Bold/Time/Calendar Minimalistic.svg"
+  },
+  {
+    "name": "Calendar Search",
+    "category": "Time",
+    "path": "Bold/Time/Calendar Search.svg"
+  },
+  {
+    "name": "Calendar",
+    "category": "Time",
+    "path": "Bold/Time/Calendar.svg"
+  },
+  {
+    "name": "Clock Circle",
+    "category": "Time",
+    "path": "Bold/Time/Clock Circle.svg"
+  },
+  {
+    "name": "Clock Square",
+    "category": "Time",
+    "path": "Bold/Time/Clock Square.svg"
+  },
+  {
+    "name": "History 2",
+    "category": "Time",
+    "path": "Bold/Time/History 2.svg"
+  },
+  {
+    "name": "History 3",
+    "category": "Time",
+    "path": "Bold/Time/History 3.svg"
+  },
+  {
+    "name": "History",
+    "category": "Time",
+    "path": "Bold/Time/History.svg"
+  },
+  {
+    "name": "Hourglass Line",
+    "category": "Time",
+    "path": "Bold/Time/Hourglass Line.svg"
+  },
+  {
+    "name": "Hourglass",
+    "category": "Time",
+    "path": "Bold/Time/Hourglass.svg"
+  },
+  {
+    "name": "Stopwatch Pause",
+    "category": "Time",
+    "path": "Bold/Time/Stopwatch Pause.svg"
+  },
+  {
+    "name": "Stopwatch Play",
+    "category": "Time",
+    "path": "Bold/Time/Stopwatch Play.svg"
+  },
+  {
+    "name": "Stopwatch",
+    "category": "Time",
+    "path": "Bold/Time/Stopwatch.svg"
+  },
+  {
+    "name": "Watch Round",
+    "category": "Time",
+    "path": "Bold/Time/Watch Round.svg"
+  },
+  {
+    "name": "Watch Square Minimalistic Charge",
+    "category": "Time",
+    "path": "Bold/Time/Watch Square Minimalistic Charge.svg"
+  },
+  {
+    "name": "Watch Square Minimalistic",
+    "category": "Time",
+    "path": "Bold/Time/Watch Square Minimalistic.svg"
+  },
+  {
+    "name": "Watch Square",
+    "category": "Time",
+    "path": "Bold/Time/Watch Square.svg"
+  },
+  {
+    "name": "Accumulator",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Accumulator.svg"
+  },
+  {
+    "name": "Bus",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Bus.svg"
+  },
+  {
+    "name": "Electric Refueling",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Electric Refueling.svg"
+  },
+  {
+    "name": "Gas Station",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Gas Station.svg"
+  },
+  {
+    "name": "Kick Scooter",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Kick Scooter.svg"
+  },
+  {
+    "name": "Scooter",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Scooter.svg"
+  },
+  {
+    "name": "Shock Absorber",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Shock Absorber.svg"
+  },
+  {
+    "name": "Spedometer Low",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Spedometer Low.svg"
+  },
+  {
+    "name": "Spedometer Max",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Spedometer Max.svg"
+  },
+  {
+    "name": "Spedometer Middle",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Spedometer Middle.svg"
+  },
+  {
+    "name": "Suspension Bolt",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Suspension Bolt.svg"
+  },
+  {
+    "name": "Suspension Cross",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Suspension Cross.svg"
+  },
+  {
+    "name": "Suspension",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Suspension.svg"
+  },
+  {
+    "name": "Tram",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Tram.svg"
+  },
+  {
+    "name": "Transmission Circle",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Transmission Circle.svg"
+  },
+  {
+    "name": "Transmission Square",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Transmission Square.svg"
+  },
+  {
+    "name": "Transmission",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Transmission.svg"
+  },
+  {
+    "name": "Wheel Angle",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Wheel Angle.svg"
+  },
+  {
+    "name": "Wheel",
+    "category": "Transport, Parts, Service",
+    "path": "Bold/Transport, Parts, Service/Wheel.svg"
+  },
+  {
+    "name": "User Block Rounded",
+    "category": "Users",
+    "path": "Bold/Users/User Block Rounded.svg"
+  },
+  {
+    "name": "User Block",
+    "category": "Users",
+    "path": "Bold/Users/User Block.svg"
+  },
+  {
+    "name": "User Check Rounded",
+    "category": "Users",
+    "path": "Bold/Users/User Check Rounded.svg"
+  },
+  {
+    "name": "User Check",
+    "category": "Users",
+    "path": "Bold/Users/User Check.svg"
+  },
+  {
+    "name": "User Circle",
+    "category": "Users",
+    "path": "Bold/Users/User Circle.svg"
+  },
+  {
+    "name": "User Cross Rounded",
+    "category": "Users",
+    "path": "Bold/Users/User Cross Rounded.svg"
+  },
+  {
+    "name": "User Cross",
+    "category": "Users",
+    "path": "Bold/Users/User Cross.svg"
+  },
+  {
+    "name": "User Hand Up",
+    "category": "Users",
+    "path": "Bold/Users/User Hand Up.svg"
+  },
+  {
+    "name": "User Hands",
+    "category": "Users",
+    "path": "Bold/Users/User Hands.svg"
+  },
+  {
+    "name": "User Heart Rounded",
+    "category": "Users",
+    "path": "Bold/Users/User Heart Rounded.svg"
+  },
+  {
+    "name": "User Heart",
+    "category": "Users",
+    "path": "Bold/Users/User Heart.svg"
+  },
+  {
+    "name": "User Id",
+    "category": "Users",
+    "path": "Bold/Users/User Id.svg"
+  },
+  {
+    "name": "User Minus Rounded",
+    "category": "Users",
+    "path": "Bold/Users/User Minus Rounded.svg"
+  },
+  {
+    "name": "User Minus",
+    "category": "Users",
+    "path": "Bold/Users/User Minus.svg"
+  },
+  {
+    "name": "User Plus Rounded",
+    "category": "Users",
+    "path": "Bold/Users/User Plus Rounded.svg"
+  },
+  {
+    "name": "User Plus",
+    "category": "Users",
+    "path": "Bold/Users/User Plus.svg"
+  },
+  {
+    "name": "User Rounded",
+    "category": "Users",
+    "path": "Bold/Users/User Rounded.svg"
+  },
+  {
+    "name": "User Speak Rounded",
+    "category": "Users",
+    "path": "Bold/Users/User Speak Rounded.svg"
+  },
+  {
+    "name": "User Speak",
+    "category": "Users",
+    "path": "Bold/Users/User Speak.svg"
+  },
+  {
+    "name": "User",
+    "category": "Users",
+    "path": "Bold/Users/User.svg"
+  },
+  {
+    "name": "Users Group Rounded",
+    "category": "Users",
+    "path": "Bold/Users/Users Group Rounded.svg"
+  },
+  {
+    "name": "Users Group Two Rounded",
+    "category": "Users",
+    "path": "Bold/Users/Users Group Two Rounded.svg"
+  },
+  {
+    "name": "Album",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Album.svg"
+  },
+  {
+    "name": "Camera Add",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Camera Add.svg"
+  },
+  {
+    "name": "Camera Minimalistic",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Camera Minimalistic.svg"
+  },
+  {
+    "name": "Camera Rotate",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Camera Rotate.svg"
+  },
+  {
+    "name": "Camera Square",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Camera Square.svg"
+  },
+  {
+    "name": "Camera",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Camera.svg"
+  },
+  {
+    "name": "Clapperboard Edit",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Clapperboard Edit.svg"
+  },
+  {
+    "name": "Clapperboard Open Play",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Clapperboard Open Play.svg"
+  },
+  {
+    "name": "Clapperboard Open",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Clapperboard Open.svg"
+  },
+  {
+    "name": "Clapperboard Play",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Clapperboard Play.svg"
+  },
+  {
+    "name": "Clapperboard Text",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Clapperboard Text.svg"
+  },
+  {
+    "name": "Clapperboard",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Clapperboard.svg"
+  },
+  {
+    "name": "Full Screen Circle",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Full Screen Circle.svg"
+  },
+  {
+    "name": "Full Screen Square",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Full Screen Square.svg"
+  },
+  {
+    "name": "Full Screen",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Full Screen.svg"
+  },
+  {
+    "name": "Gallery Add",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Gallery Add.svg"
+  },
+  {
+    "name": "Gallery Check",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Gallery Check.svg"
+  },
+  {
+    "name": "Gallery Circle",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Gallery Circle.svg"
+  },
+  {
+    "name": "Gallery Download",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Gallery Download.svg"
+  },
+  {
+    "name": "Gallery Edit",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Gallery Edit.svg"
+  },
+  {
+    "name": "Gallery Favourite",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Gallery Favourite.svg"
+  },
+  {
+    "name": "Gallery Minimalistic",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Gallery Minimalistic.svg"
+  },
+  {
+    "name": "Gallery Remove",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Gallery Remove.svg"
+  },
+  {
+    "name": "Gallery Round",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Gallery Round.svg"
+  },
+  {
+    "name": "Gallery Send",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Gallery Send.svg"
+  },
+  {
+    "name": "Gallery Wide",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Gallery Wide.svg"
+  },
+  {
+    "name": "Gallery",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Gallery.svg"
+  },
+  {
+    "name": "Library",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Library.svg"
+  },
+  {
+    "name": "Microphone 2",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Microphone 2.svg"
+  },
+  {
+    "name": "Microphone 3",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Microphone 3.svg"
+  },
+  {
+    "name": "Microphone Large",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Microphone Large.svg"
+  },
+  {
+    "name": "Microphone",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Microphone.svg"
+  },
+  {
+    "name": "Music Library 2",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Music Library 2.svg"
+  },
+  {
+    "name": "Music Library",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Music Library.svg"
+  },
+  {
+    "name": "Music Note 2",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Music Note 2.svg"
+  },
+  {
+    "name": "Music Note 3",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Music Note 3.svg"
+  },
+  {
+    "name": "Music Note 4",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Music Note 4.svg"
+  },
+  {
+    "name": "Music Note Slider 2",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Music Note Slider 2.svg"
+  },
+  {
+    "name": "Music Note Slider",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Music Note Slider.svg"
+  },
+  {
+    "name": "Music Note",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Music Note.svg"
+  },
+  {
+    "name": "Music Notes",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Music Notes.svg"
+  },
+  {
+    "name": "Muted",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Muted.svg"
+  },
+  {
+    "name": "PIP 2",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/PIP 2.svg"
+  },
+  {
+    "name": "PIP",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/PIP.svg"
+  },
+  {
+    "name": "Panorama",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Panorama.svg"
+  },
+  {
+    "name": "Pause Circle",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Pause Circle.svg"
+  },
+  {
+    "name": "Pause",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Pause.svg"
+  },
+  {
+    "name": "Play Circle",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Play Circle.svg"
+  },
+  {
+    "name": "Play Stream",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Play Stream.svg"
+  },
+  {
+    "name": "Play",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Play.svg"
+  },
+  {
+    "name": "Playback Speed",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Playback Speed.svg"
+  },
+  {
+    "name": "Podcast",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Podcast.svg"
+  },
+  {
+    "name": "Quit Full Screen Circle",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Quit Full Screen Circle.svg"
+  },
+  {
+    "name": "Quit Full Screen Square",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Quit Full Screen Square.svg"
+  },
+  {
+    "name": "Quit Full Screen",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Quit Full Screen.svg"
+  },
+  {
+    "name": "Quit PIP",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Quit PIP.svg"
+  },
+  {
+    "name": "Record Circle",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Record Circle.svg"
+  },
+  {
+    "name": "Record",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Record.svg"
+  },
+  {
+    "name": "Reel 2",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Reel 2.svg"
+  },
+  {
+    "name": "Reel",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Reel.svg"
+  },
+  {
+    "name": "Repeat One Minimalistic",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Repeat One Minimalistic.svg"
+  },
+  {
+    "name": "Repeat One",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Repeat One.svg"
+  },
+  {
+    "name": "Repeat",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Repeat.svg"
+  },
+  {
+    "name": "Rewind 10 Seconds Back",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Rewind 10 Seconds Back.svg"
+  },
+  {
+    "name": "Rewind 10 Seconds Forward",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Rewind 10 Seconds Forward.svg"
+  },
+  {
+    "name": "Rewind 15 Seconds Back",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Rewind 15 Seconds Back.svg"
+  },
+  {
+    "name": "Rewind 15 Seconds Forward",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Rewind 15 Seconds Forward.svg"
+  },
+  {
+    "name": "Rewind 5 Seconds Back",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Rewind 5 Seconds Back.svg"
+  },
+  {
+    "name": "Rewind 5 Seconds Forward",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Rewind 5 Seconds Forward.svg"
+  },
+  {
+    "name": "Rewind Back Circle",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Rewind Back Circle.svg"
+  },
+  {
+    "name": "Rewind Back",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Rewind Back.svg"
+  },
+  {
+    "name": "Rewind Forward Circle",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Rewind Forward Circle.svg"
+  },
+  {
+    "name": "Rewind Forward",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Rewind Forward.svg"
+  },
+  {
+    "name": "Shuffle",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Shuffle.svg"
+  },
+  {
+    "name": "Skip Next",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Skip Next.svg"
+  },
+  {
+    "name": "Skip Previous",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Skip Previous.svg"
+  },
+  {
+    "name": "Soundwave Circle",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Soundwave Circle.svg"
+  },
+  {
+    "name": "Soundwave Square",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Soundwave Square.svg"
+  },
+  {
+    "name": "Soundwave",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Soundwave.svg"
+  },
+  {
+    "name": "Stop Circle",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Stop Circle.svg"
+  },
+  {
+    "name": "Stop",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Stop.svg"
+  },
+  {
+    "name": "Stream",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Stream.svg"
+  },
+  {
+    "name": "To PIP",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/To PIP.svg"
+  },
+  {
+    "name": "Upload Track 2",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Upload Track 2.svg"
+  },
+  {
+    "name": "Upload Track",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Upload Track.svg"
+  },
+  {
+    "name": "Video Frame 2",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Video Frame 2.svg"
+  },
+  {
+    "name": "Video Frame Cut 2",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Video Frame Cut 2.svg"
+  },
+  {
+    "name": "Video Frame Cut",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Video Frame Cut.svg"
+  },
+  {
+    "name": "Video Frame Play Horizontal",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Video Frame Play Horizontal.svg"
+  },
+  {
+    "name": "Video Frame Play Vertical",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Video Frame Play Vertical.svg"
+  },
+  {
+    "name": "Video Frame Replace",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Video Frame Replace.svg"
+  },
+  {
+    "name": "Video Frame",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Video Frame.svg"
+  },
+  {
+    "name": "Video Library",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Video Library.svg"
+  },
+  {
+    "name": "Videocamera Add",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Videocamera Add.svg"
+  },
+  {
+    "name": "Videocamera Record",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Videocamera Record.svg"
+  },
+  {
+    "name": "Videocamera",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Videocamera.svg"
+  },
+  {
+    "name": "Vinyl Record",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Vinyl Record.svg"
+  },
+  {
+    "name": "Vinyl",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Vinyl.svg"
+  },
+  {
+    "name": "Volume Cross",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Volume Cross.svg"
+  },
+  {
+    "name": "Volume Loud",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Volume Loud.svg"
+  },
+  {
+    "name": "Volume Small",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Volume Small.svg"
+  },
+  {
+    "name": "Volume",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Volume.svg"
+  },
+  {
+    "name": "Wallpaper",
+    "category": "Video, Audio, Sound",
+    "path": "Bold/Video, Audio, Sound/Wallpaper.svg"
+  },
+  {
+    "name": "Cloud Bolt Minimalistic",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Bolt Minimalistic.svg"
+  },
+  {
+    "name": "Cloud Bolt",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Bolt.svg"
+  },
+  {
+    "name": "Cloud Check",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Check.svg"
+  },
+  {
+    "name": "Cloud Download",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Download.svg"
+  },
+  {
+    "name": "Cloud Minus",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Minus.svg"
+  },
+  {
+    "name": "Cloud Plus",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Plus.svg"
+  },
+  {
+    "name": "Cloud Rain",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Rain.svg"
+  },
+  {
+    "name": "Cloud Snowfall Minimalistic",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Snowfall Minimalistic.svg"
+  },
+  {
+    "name": "Cloud Snowfall",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Snowfall.svg"
+  },
+  {
+    "name": "Cloud Storm",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Storm.svg"
+  },
+  {
+    "name": "Cloud Sun 2",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Sun 2.svg"
+  },
+  {
+    "name": "Cloud Sun",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Sun.svg"
+  },
+  {
+    "name": "Cloud Upload",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Upload.svg"
+  },
+  {
+    "name": "Cloud Waterdrop",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Waterdrop.svg"
+  },
+  {
+    "name": "Cloud Waterdrops",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud Waterdrops.svg"
+  },
+  {
+    "name": "Cloud",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloud.svg"
+  },
+  {
+    "name": "Clouds",
+    "category": "Weather",
+    "path": "Bold/Weather/Clouds.svg"
+  },
+  {
+    "name": "Cloudy Moon",
+    "category": "Weather",
+    "path": "Bold/Weather/Cloudy Moon.svg"
+  },
+  {
+    "name": "Clound Cross",
+    "category": "Weather",
+    "path": "Bold/Weather/Clound Cross.svg"
+  },
+  {
+    "name": "Fog",
+    "category": "Weather",
+    "path": "Bold/Weather/Fog.svg"
+  },
+  {
+    "name": "Moon Fog",
+    "category": "Weather",
+    "path": "Bold/Weather/Moon Fog.svg"
+  },
+  {
+    "name": "Moon Sleep",
+    "category": "Weather",
+    "path": "Bold/Weather/Moon Sleep.svg"
+  },
+  {
+    "name": "Moon Stars",
+    "category": "Weather",
+    "path": "Bold/Weather/Moon Stars.svg"
+  },
+  {
+    "name": "Moon",
+    "category": "Weather",
+    "path": "Bold/Weather/Moon.svg"
+  },
+  {
+    "name": "Snowflake",
+    "category": "Weather",
+    "path": "Bold/Weather/Snowflake.svg"
+  },
+  {
+    "name": "Stars",
+    "category": "Weather",
+    "path": "Bold/Weather/Stars.svg"
+  },
+  {
+    "name": "Sun 2",
+    "category": "Weather",
+    "path": "Bold/Weather/Sun 2.svg"
+  },
+  {
+    "name": "Sun Fog",
+    "category": "Weather",
+    "path": "Bold/Weather/Sun Fog.svg"
+  },
+  {
+    "name": "Sun",
+    "category": "Weather",
+    "path": "Bold/Weather/Sun.svg"
+  },
+  {
+    "name": "Sunrise",
+    "category": "Weather",
+    "path": "Bold/Weather/Sunrise.svg"
+  },
+  {
+    "name": "Sunset",
+    "category": "Weather",
+    "path": "Bold/Weather/Sunset.svg"
+  },
+  {
+    "name": "Temperature",
+    "category": "Weather",
+    "path": "Bold/Weather/Temperature.svg"
+  },
+  {
+    "name": "Tornado Small",
+    "category": "Weather",
+    "path": "Bold/Weather/Tornado Small.svg"
+  },
+  {
+    "name": "Tornado",
+    "category": "Weather",
+    "path": "Bold/Weather/Tornado.svg"
+  },
+  {
+    "name": "Waterdrops",
+    "category": "Weather",
+    "path": "Bold/Weather/Waterdrops.svg"
+  },
+  {
+    "name": "Wind",
+    "category": "Weather",
+    "path": "Bold/Weather/Wind.svg"
+  }
+]
